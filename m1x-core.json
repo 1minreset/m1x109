@@ -3,38 +3,3798 @@
     {
       "id": 1,
       "type": "office",
-      "bg": "Погледни колегата до теб сякаш знаеш нещо важно.",
-      "en": "Look at your coworker like you know something important."
+      "bg": "Пий кафе на един крак за 10 секунди.",
+      "en": "Drink coffee on one leg for 10 seconds."
     },
     {
       "id": 2,
       "type": "office",
-      "bg": "Кимни уверено, без причина.",
-      "en": "Nod confidently for no reason."
+      "bg": "Опиши клавиатурата си като трагичен герой.",
+      "en": "Describe your keyboard as a tragic hero."
     },
     {
       "id": 3,
-      "type": "night",
-      "bg": "Огледай се бавно, сякаш чу нещо странно.",
-      "en": "Look around slowly as if you heard something strange."
+      "type": "office",
+      "bg": "Прости на принтера. Накратко.",
+      "en": "Forgive the printer. Briefly."
     },
     {
       "id": 4,
-      "type": "night",
-      "bg": "Прошепни „тук съм“ тихо.",
-      "en": "Whisper 'I'm here' quietly."
+      "type": "office",
+      "bg": "Кажи със сериозно лице: „Системата изисква рестарт“.",
+      "en": "Say: \"The system requires a restart.\" with a serious face."
     },
     {
       "id": 5,
-      "type": "home",
-      "bg": "Седни като герой от филм и въздъхни драматично.",
-      "en": "Sit like a movie character and sigh dramatically."
+      "type": "office",
+      "bg": "Погледни най-близкия предмет, сякаш те е предал.",
+      "en": "Look at the nearest object like it betrayed you."
     },
     {
       "id": 6,
-      "type": "public",
-      "bg": "Погледни часовника си и се усмихни загадъчно.",
-      "en": "Look at your watch and smile mysteriously."
+      "type": "office",
+      "bg": "Отиди до кухнята, движейки се само на зиг-заг или правейки „лунната походка“.",
+      "en": "Go to the kitchen moving only in zig-zags or doing the moonwalk."
+    },
+    {
+      "id": 7,
+      "type": "office",
+      "bg": "Вдигни тост за колегата срещу теб с чаша вода и напълно безизразно лице.",
+      "en": "Propose a toast to the colleague across from you with a glass of water and a deadpan expression."
+    },
+    {
+      "id": 8,
+      "type": "office",
+      "bg": "Замръзни в драматична поза като гръцка статуя за точно 60 секунди.",
+      "en": "Freeze in a dramatic pose like a Greek statue for exactly 60 seconds."
+    },
+    {
+      "id": 9,
+      "type": "office",
+      "bg": "Прошепни на принтера: „Ти си най-бързият тук, вярвам в теб“ и го поглади нежно.",
+      "en": "Whisper to the printer: 'You’re the fastest one here, I believe in you' and pat it gently."
+    },
+    {
+      "id": 10,
+      "type": "office",
+      "bg": "Проведи разговор с първата птица, която видиш през прозореца, използвайки само жестове с ръце.",
+      "en": "Have a conversation with the first bird you see out the window using only hand gestures."
+    },
+    {
+      "id": 11,
+      "type": "office",
+      "bg": "Коментирай собствените си действия на глас като спортен коментатор в продължение на 1 минута.",
+      "en": "Commentate on your own actions out loud like a sports announcer for 1 minute."
+    },
+    {
+      "id": 12,
+      "type": "office",
+      "bg": "Направи 5 подскока „звезда“ точно преди да влезеш в среща и извикай „ГОТОВ СЪМ!“.",
+      "en": "Do 5 Jumping Jacks right before entering a meeting and yell 'I'M READY!'."
+    },
+    {
+      "id": 13,
+      "type": "office",
+      "bg": "Работи 5 минути, стоейки на един крак и балансирайки гумичка върху главата си.",
+      "en": "Work for 5 minutes standing on one leg while balancing an eraser on your head."
+    },
+    {
+      "id": 14,
+      "type": "office",
+      "bg": "Мини през коридора, преструвайки се, че яздиш кон, но запази професионално изражение.",
+      "en": "Walk through the hallway pretending to ride a horse, but keep a professional face."
+    },
+    {
+      "id": 15,
+      "type": "office",
+      "bg": "Поклони се на рутера три пъти за по-добър пинг.",
+      "en": "Bow to the router three times for better ping."
+    },
+    {
+      "id": 16,
+      "type": "office",
+      "bg": "Кажи „Окей, Гугъл“ на кафе машината и изчакай 10 секунди за отговор.",
+      "en": "Say 'Okay Google' to the coffee machine and wait 10 seconds for a response."
+    },
+    {
+      "id": 17,
+      "type": "office",
+      "bg": "Избърши монитора си, докато му пееш приспивна песен.",
+      "en": "Wipe your monitor while singing it a lullaby."
+    },
+    {
+      "id": 18,
+      "type": "office",
+      "bg": "Изпрати си имейл с тема „Бъдещето“, съдържащ само прогнозата за времето след 50 години.",
+      "en": "Email yourself with the subject 'The Future' containing only the weather forecast for 50 years from now."
+    },
+    {
+      "id": 19,
+      "type": "office",
+      "bg": "Прекръсти мишката си на „Сър Скуикс-а-Лот“ и я запознай с клавиатурата.",
+      "en": "Rename your mouse 'Sir Squeaks-a-Lot' and introduce it to the keyboard."
+    },
+    {
+      "id": 20,
+      "type": "office",
+      "bg": "Разкажи на принтера за детството си, докато той принтира.",
+      "en": "Tell the printer about your childhood while it’s printing."
+    },
+    {
+      "id": 21,
+      "type": "office",
+      "bg": "Скролни до най-долния ред на най-дългата си Excel таблица, за да намериш „края на интернет“.",
+      "en": "Scroll to the bottom of your longest Excel sheet to find the 'end of the internet'."
+    },
+    {
+      "id": 22,
+      "type": "office",
+      "bg": "Нарисувай намигащо око върху капачето на уеб камерата си.",
+      "en": "Draw a winking eye on your webcam cover."
+    },
+    {
+      "id": 23,
+      "type": "office",
+      "bg": "Използвай химикалка като антена на главата си за „по-добър Wi-Fi сигнал“.",
+      "en": "Use a pen as an antenna on your head for 'better Wi-Fi signal'."
+    },
+    {
+      "id": 24,
+      "type": "office",
+      "bg": "Напиши „Грешка 404: Мотивацията не е намерена“ на лепящо листче и го залепи на гърба си.",
+      "en": "Write '404 Error: Motivation not found' on a sticky note and stick it on your back."
+    },
+    {
+      "id": 25,
+      "type": "office",
+      "bg": "Направи чай за офис растението и му кажи: „Днес аз черпя“.",
+      "en": "Make tea for a desk plant and say: 'Today it’s your treat'."
+    },
+    {
+      "id": 26,
+      "type": "office",
+      "bg": "Взрете се интензивно в кафето си, докато не видите „знак от съдбата“ в пяната.",
+      "en": "Stare intensely at your coffee until you see a 'sign from destiny' in the foam."
+    },
+    {
+      "id": 27,
+      "type": "office",
+      "bg": "Организирай погребение за последната бисквитка в опаковката.",
+      "en": "Organize a funeral for the last cookie in the package."
+    },
+    {
+      "id": 28,
+      "type": "office",
+      "bg": "Влез в кухнята, вървейки гърбом, и излез по същия начин.",
+      "en": "Enter the kitchen walking backwards and leave the same way."
+    },
+    {
+      "id": 29,
+      "type": "office",
+      "bg": "Попитай хладилника: „Къде беше снощи?“.",
+      "en": "Ask the fridge: 'Where were you last night?'."
+    },
+    {
+      "id": 30,
+      "type": "office",
+      "bg": "Остави бележка върху обяда си: „Това не е храна, а социален експеримент“.",
+      "en": "Leave a note on your lunch: 'This isn't food, it's a social experiment'."
+    },
+    {
+      "id": 31,
+      "type": "office",
+      "bg": "Изяж един банан с нож и вилица, докато поддържаш учтив разговор.",
+      "en": "Eat a banana with a knife and fork while maintaining polite small talk."
+    },
+    {
+      "id": 32,
+      "type": "office",
+      "bg": "Направи опашка за кафе машината, дори ако си сам.",
+      "en": "Start a queue for the coffee machine even if you are alone."
+    },
+    {
+      "id": 33,
+      "type": "office",
+      "bg": "Пий вода със сламка, но си вдигни кутрето като аристократ.",
+      "en": "Drink water through a straw but keep your pinky up like an aristocrat."
+    },
+    {
+      "id": 34,
+      "type": "office",
+      "bg": "Обяви „минута мълчание“ за празната кутия мляко.",
+      "en": "Announce a 'minute of silence' for the empty milk carton."
+    },
+    {
+      "id": 35,
+      "type": "office",
+      "bg": "На въпроса „Как си?“, отговори „Процесите се оптимизират“ и изчезни бързо.",
+      "en": "To the question 'How are you?', reply 'Processes are being optimized' and disappear quickly."
+    },
+    {
+      "id": 36,
+      "type": "office",
+      "bg": "Направи 5 лицеви опори в коридора и кажи: „Презареждам батериите“.",
+      "en": "Do 5 push-ups in the hallway and say: 'Recharging batteries'."
+    },
+    {
+      "id": 26,
+      "type": "office",
+      "bg": "Взрете се интензивно в кафето си, докато не видите „знак от съдбата“ в пяната.",
+      "en": "Stare intensely at your coffee until you see a 'sign from destiny' in the foam."
+    },
+    {
+      "id": 27,
+      "type": "office",
+      "bg": "Организирай погребение за последната бисквитка в опаковката.",
+      "en": "Organize a funeral for the last cookie in the package."
+    },
+    {
+      "id": 28,
+      "type": "office",
+      "bg": "Влез в кухнята, вървейки гърбом, и излез по същия начин.",
+      "en": "Enter the kitchen walking backwards and leave the same way."
+    },
+    {
+      "id": 29,
+      "type": "office",
+      "bg": "Попитай хладилника: „Къде беше снощи?“.",
+      "en": "Ask the fridge: 'Where were you last night?'."
+    },
+    {
+      "id": 30,
+      "type": "office",
+      "bg": "Остави бележка върху обяда си: „Това не е храна, а социален експеримент“.",
+      "en": "Leave a note on your lunch: 'This isn't food, it's a social experiment'."
+    },
+    {
+      "id": 31,
+      "type": "office",
+      "bg": "Изяж един банан с нож и вилица, докато поддържаш учтив разговор.",
+      "en": "Eat a banana with a knife and fork while maintaining polite small talk."
+    },
+    {
+      "id": 32,
+      "type": "office",
+      "bg": "Направи опашка за кафе машината, дори ако си сам.",
+      "en": "Start a queue for the coffee machine even if you are alone."
+    },
+    {
+      "id": 33,
+      "type": "office",
+      "bg": "Пий вода със сламка, но си вдигни кутрето като аристократ.",
+      "en": "Drink water through a straw but keep your pinky up like an aristocrat."
+    },
+    {
+      "id": 34,
+      "type": "office",
+      "bg": "Обяви „минута мълчание“ за празната кутия мляко.",
+      "en": "Announce a 'minute of silence' for the empty milk carton."
+    },
+    {
+      "id": 35,
+      "type": "office",
+      "bg": "На въпроса „Как си?“, отговори „Процесите се оптимизират“ и изчезни бързо.",
+      "en": "To the question 'How are you?', reply 'Processes are being optimized' and disappear quickly."
+    },
+    {
+      "id": 36,
+      "type": "office",
+      "bg": "Направи 5 лицеви опори в коридора и кажи: „Презареждам батериите“.",
+      "en": "Do 5 push-ups in the hallway and say: 'Recharging batteries'."
+    },
+    {
+      "id": 37,
+      "type": "office",
+      "bg": "Погледни колега и прошепни: „Знам какво направи миналото лято... в Excel“.",
+      "en": "Look at a colleague and whisper: 'I know what you did last summer... in Excel'."
+    },
+    {
+      "id": 38,
+      "type": "office",
+      "bg": "Започни да ръкопляскаш бавно, когато някой си допие кафето.",
+      "en": "Start clapping slowly when someone finishes their coffee."
+    },
+    {
+      "id": 39,
+      "type": "office",
+      "bg": "Върви настрани като рак, когато отиваш към конферентната зала.",
+      "en": "Walk sideways like a crab when going to the conference room."
+    },
+    {
+      "id": 40,
+      "type": "office",
+      "bg": "Опитай се да хипнотизираш колега с кламер.",
+      "en": "Try to hypnotize a colleague with a paperclip."
+    },
+    {
+      "id": 41,
+      "type": "office",
+      "bg": "Поискай разрешение от офис растението, преди да седнеш до него.",
+      "en": "Ask permission from the office plant before sitting next to it."
+    },
+    {
+      "id": 42,
+      "type": "office",
+      "bg": "Кажи на някого „Хубава прическа“, докато гледаш обувките му.",
+      "en": "Tell someone 'Nice haircut' while looking at their shoes."
+    },
+    {
+      "id": 43,
+      "type": "office",
+      "bg": "Използвай думата „синергия“ в изречение, което няма абсолютно никакъв смисъл.",
+      "en": "Use the word 'synergy' in a sentence that makes absolutely no sense."
+    },
+    {
+      "id": 44,
+      "type": "office",
+      "bg": "Дръж се като статуя всеки път, когато шефът минава покрай теб.",
+      "en": "Act like a statue every time the boss passes by."
+    },
+    {
+      "id": 45,
+      "type": "office",
+      "bg": "Направи си палатка от две папки под бюрото и „къмпингувай“ там за 1 минута.",
+      "en": "Build a tent out of two folders under your desk and 'camp' there for 1 minute."
+    },
+    {
+      "id": 46,
+      "type": "office",
+      "bg": "Извади троха от клавиатурата си с клечка за зъби и я снимай като „рядка находка“.",
+      "en": "Extract a crumb from your keyboard with a toothpick and photograph it as a 'rare find'."
+    },
+    {
+      "id": 47,
+      "type": "office",
+      "bg": "Направи си огърлица от кламери и си направи селфи с лице на модел от висшата мода.",
+      "en": "Make a necklace out of paperclips and take a selfie with a high-fashion model face."
+    },
+    {
+      "id": 48,
+      "type": "office",
+      "bg": "Завърти се 3 пъти на стола си и се опитай да си направиш селфи веднага след това.",
+      "en": "Spin 3 times on your chair and try to take a selfie immediately after."
+    },
+    {
+      "id": 49,
+      "type": "office",
+      "bg": "Залепи розово листче на челото си с надпис „RESTART“ и поискай телбод от колега.",
+      "en": "Stick a pink note on your forehead saying 'RESTART' and ask a colleague for a stapler."
+    },
+    {
+      "id": 50,
+      "type": "office",
+      "bg": "Подреди кабелите под бюрото си във формата на усмихнато лице.",
+      "en": "Arrange the cables under your desk into a smiley face."
+    },
+    {
+      "id": 51,
+      "type": "office",
+      "bg": "Обуй два различни чорапа и ги публикувай с хаштаг #OfficeStyle2026.",
+      "en": "Wear two different socks and post them with the hashtag #OfficeStyle2026."
+    },
+    {
+      "id": 52,
+      "type": "office",
+      "bg": "Направи „заешки ушички“ със сянката си върху стената зад шефа си.",
+      "en": "Make 'bunny ears' with your shadow on the wall behind your boss."
+    },
+    {
+      "id": 53,
+      "type": "office",
+      "bg": "Подреди 5 кламера в перфектен кръг и медитирай над тях за 30 секунди.",
+      "en": "Arrange 5 paperclips in a perfect circle and meditate over them for 30 seconds."
+    },
+    {
+      "id": 54,
+      "type": "office",
+      "bg": "Попитай растението: „Какви са целите ти за това тримесечие?“.",
+      "en": "Ask the plant: 'What are your goals for this quarter?'."
+    },
+    {
+      "id": 55,
+      "type": "office",
+      "bg": "Остави празна кутия на бюрото на колега с бележка: „Да не се отваря до 2030 г.“.",
+      "en": "Leave an empty box on a colleague's desk with a note: 'Do not open until 2030'."
+    },
+    {
+      "id": 56,
+      "type": "office",
+      "bg": "Повтаряй последната дума на всеки, който ти говори, в продължение на 2 минути.",
+      "en": "Repeat the last word of everyone who speaks to you for 2 minutes."
+    },
+    {
+      "id": 57,
+      "type": "office",
+      "bg": "Кимни много бавно за 15 секунди, преди да отговориш на който и да е въпрос.",
+      "en": "Nod very slowly for 15 seconds before answering any question."
+    },
+    {
+      "id": 58,
+      "type": "office",
+      "bg": "Погледни през дупката на поничка и следи „движенията на врага“ (колегите).",
+      "en": "Look through the hole of a donut and track the 'enemy movements' (colleagues)."
+    },
+    {
+      "id": 59,
+      "type": "office",
+      "bg": "Престори се, че на вратата на офиса има невидима стена и я „опипай“, преди да влезеш.",
+      "en": "Pretend there is an invisible wall at the office door and 'feel' it before entering."
+    },
+    {
+      "id": 60,
+      "type": "office",
+      "bg": "Огради бюрото си с тиксо и кажи, че това е „Зона без стрес“.",
+      "en": "Tape off your desk and say it's a 'Stress-Free Zone'."
+    },
+    {
+      "id": 61,
+      "type": "office",
+      "bg": "Подреди химикалките на колега по цвят и височина, докато той не гледа.",
+      "en": "Arrange a colleague's pens by color and height while they aren't looking."
+    },
+    {
+      "id": 62,
+      "type": "office",
+      "bg": "Спри колега в коридора и попитай: „Извинете, на кой етаж е плажът?“.",
+      "en": "Stop a colleague in the hallway and ask: 'Excuse me, which floor is the beach on?'."
+    },
+    {
+      "id": 63,
+      "type": "office",
+      "bg": "Говори с роботизиран глас, докато някой не те попита дали си добре.",
+      "en": "Speak in a robotic voice until someone asks if you are okay."
+    },
+    {
+      "id": 64,
+      "type": "office",
+      "bg": "Дирижирай невидима симфония, докато чакаш асансьора.",
+      "en": "Conduct an invisible symphony while waiting for the elevator."
+    },
+    {
+      "id": 65,
+      "type": "office",
+      "bg": "Спринтирай до принтера, сякаш финишираш в състезание на 100 метра с препятствия.",
+      "en": "Sprint to the printer as if finishing a 100m hurdle race."
+    },
+    {
+      "id": 66,
+      "type": "office",
+      "bg": "Хвърли смачкана хартия в кошчето от 3 метра. Ако пропуснеш, направи 3 клякания.",
+      "en": "Throw a crumpled paper into the bin from 3 meters. If you miss, do 3 squats."
+    },
+    {
+      "id": 67,
+      "type": "office",
+      "bg": "Имитирай мач по тенис на маса с колега, като използвате тетрадки за хилки.",
+      "en": "Imitate a table tennis match with a colleague using notebooks as paddles."
+    },
+    {
+      "id": 68,
+      "type": "office",
+      "bg": "Направи синхронизирано движение с ръце с колега, докато седите на столовете си.",
+      "en": "Do a synchronized arm movement with a colleague while sitting in your chairs."
+    },
+    {
+      "id": 69,
+      "type": "office",
+      "bg": "Използвай два големи класьора като дъмбели и направи 10 повторения.",
+      "en": "Use two large binders as dumbbells and do 10 reps."
+    },
+    {
+      "id": 70,
+      "type": "office",
+      "bg": "Върви по плочките на пода, сякаш балансираш на въже над бездна.",
+      "en": "Walk along the floor tiles as if balancing on a tightrope over an abyss."
+    },
+    {
+      "id": 71,
+      "type": "office",
+      "bg": "Застани в планк за 30 секунди, докато чакаш микровълновата.",
+      "en": "Hold a plank for 30 seconds while waiting for the microwave."
+    },
+    {
+      "id": 72,
+      "type": "office",
+      "bg": "Движи се из стаята със стола си, имитирайки гребане.",
+      "en": "Move around the room on your chair imitating a rowing motion."
+    },
+    {
+      "id": 73,
+      "type": "office",
+      "bg": "Изстреляй ластик към пластмасова чаша в другия край на бюрото си.",
+      "en": "Shoot a rubber band at a plastic cup on the other end of your desk."
+    },
+    {
+      "id": 74,
+      "type": "office",
+      "bg": "Пропълзи под конферентната маса и излез от другата страна с победен жест.",
+      "en": "Crawl under the conference table and come out the other side with a victory gesture."
+    },
+    {
+      "id": 75,
+      "type": "office",
+      "bg": "Направи пирует на път за тоалетната.",
+      "en": "Do a pirouette on your way to the restroom."
+    },
+    {
+      "id": 76,
+      "type": "office",
+      "bg": "Свий устни, сякаш държиш лимон в устата си, докато говориш с някого.",
+      "en": "Pucker your lips as if holding a lemon in your mouth while talking to someone."
+    },
+    {
+      "id": 77,
+      "type": "office",
+      "bg": "Изпусни химикалката си 5 пъти и се преструвай на изненадан, че пада всеки път.",
+      "en": "Drop your pen 5 times and act surprised that it falls down every time."
+    },
+    {
+      "id": 78,
+      "type": "office",
+      "bg": "Убеди поне един колега да те последва до кухнята в „влакче“.",
+      "en": "Convince at least one colleague to follow you to the kitchen in a 'conga line'."
+    },
+    {
+      "id": 79,
+      "type": "office",
+      "bg": "Нарисувай очи на телбода си и го кръсти „Чомпи“.",
+      "en": "Draw eyes on your stapler and name it 'Chompy'."
+    },
+    {
+      "id": 80,
+      "type": "office",
+      "bg": "Използвай две папки като грамофони и „миксирай“ невидима музика за 30 секунди.",
+      "en": "Use two folders as turntables and 'mix' invisible music for 30 seconds."
+    },
+    {
+      "id": 81,
+      "type": "office",
+      "bg": "Вземи смачкана хартия от кошчето и я прочети като древно пророчество.",
+      "en": "Pick a crumpled paper from the bin and read it like an ancient prophecy."
+    },
+    {
+      "id": 82,
+      "type": "office",
+      "bg": "Застани върху стола си и огледай офиса като орел, търсещ плячка.",
+      "en": "Stand on your chair and scout the office like an eagle looking for prey."
+    },
+    {
+      "id": 83,
+      "type": "office",
+      "bg": "Опитай се да хванеш въображаема муха с нинджа движения.",
+      "en": "Try to catch an imaginary fly with ninja-like moves."
+    },
+    {
+      "id": 84,
+      "type": "office",
+      "bg": "В разговор повтаряй всяко „Ами...“ или „Такова...“, което другият човек казва.",
+      "en": "In a conversation, repeat every 'Um...' or 'Like...' the other person says."
+    },
+    {
+      "id": 85,
+      "type": "office",
+      "bg": "Допри ухо до стената за 30 секунди и прошепни: „Все още са там...“.",
+      "en": "Put your ear to the wall for 30 seconds and whisper: 'They’re still there...'."
+    },
+    {
+      "id": 86,
+      "type": "office",
+      "bg": "Проведи 1-минутен разговор по невидим телефон и завърши с „Чао, бабо“.",
+      "en": "Have a 1-minute conversation on an invisible phone and end with 'Bye, Grandma'."
+    },
+    {
+      "id": 87,
+      "type": "office",
+      "bg": "Внимателно инспектирай дъното на чашата си за скрити „бръмбари“ или микрофони.",
+      "en": "Carefully inspect the bottom of your cup for hidden 'bugs' or microphones."
+    },
+    {
+      "id": 88,
+      "type": "office",
+      "bg": "Поздрави първия колега, когото видиш, с „Честит вторник!“ в грешен ден.",
+      "en": "Greet the first colleague you see with 'Happy Tuesday!' on the wrong day."
+    },
+    {
+      "id": 89,
+      "type": "office",
+      "bg": "Свий главата си в раменете като костенурка за 1 минута.",
+      "en": "Tuck your head into your shoulders like a turtle for 1 minute."
+    },
+    {
+      "id": 90,
+      "type": "office",
+      "bg": "Целуни шумно една папка и я върни в шкафа.",
+      "en": "Loudly kiss a folder and put it back in the cabinet."
+    },
+    {
+      "id": 91,
+      "type": "office",
+      "bg": "Издухай въображаем прах от рамото на колега и му намигни.",
+      "en": "Blow imaginary dust off a colleague's shoulder and wink at them."
+    },
+    {
+      "id": 92,
+      "type": "office",
+      "bg": "Намери предмет в чекмеджето си, който не си ползвал от година, и го вдигни като трофей.",
+      "en": "Find an item in your drawer you haven't used in a year and lift it like a trophy."
+    },
+    {
+      "id": 93,
+      "type": "office",
+      "bg": "Опитай се да се камуфлираш спрямо цвета на стената за 30 секунди.",
+      "en": "Try to camouflage yourself against the wall color for 30 seconds."
+    },
+    {
+      "id": 94,
+      "type": "office",
+      "bg": "Подреди кламерите си в стрелка, сочеща към изхода.",
+      "en": "Arrange your paperclips into an arrow pointing toward the exit."
+    },
+    {
+      "id": 95,
+      "type": "office",
+      "bg": "Пиши на клавиатурата, като използваш само показалците си, като на пишеща машина от 1890-те.",
+      "en": "Type on your keyboard using only index fingers like an 1890s typewriter."
+    },
+    {
+      "id": 96,
+      "type": "office",
+      "bg": "Опитай се да докоснеш носа си с език 10 пъти подред.",
+      "en": "Try to touch your nose with your tongue 10 times in a row."
+    }
+      "id": 97,
+      "type": "office",
+      "bg": "Свири на невидимо пиано върху бюрото си, докато чакаш някой уебсайт да зареди.",
+      "en": "Play an invisible piano on your desk while waiting for a website to load."
+    },
+    {
+      "id": 98,
+      "type": "office",
+      "bg": "Върви от бюрото си до вратата със затворени очи (използвай ръцете си внимателно!).",
+      "en": "Walk from your desk to the door with your eyes closed (use hands carefully!)."
+    },
+    {
+      "id": 99,
+      "type": "office",
+      "bg": "Размърдай веждите си в ритъма на песен, която звучи в главата ти.",
+      "en": "Wiggle your eyebrows to the rhythm of a song playing in your head."
+    },
+    {
+      "id": 100,
+      "type": "office",
+      "bg": "Прави по 3 клякания всеки път, когато чуеш думата „краен срок“ (deadline).",
+      "en": "Do 3 squats every time you hear the word 'deadline'."
+    },
+    {
+      "id": 101,
+      "type": "office",
+      "bg": "Напиши името си с ръката, която не ти е водеща.",
+      "en": "Write your name with your non-dominant hand."
+    },
+    {
+      "id": 102,
+      "type": "office",
+      "bg": "Потъркай химикалка в косата си и се опитай да вдигнеш парченце хартия със статично електричество.",
+      "en": "Rub a pen in your hair and pick up a piece of paper with static electricity."
+    },
+    {
+      "id": 103,
+      "type": "office",
+      "bg": "Върви в права линия, поставяйки пета пред пръсти при всяка стъпка.",
+      "en": "Walk in a straight line, placing heel to toe with every step."
+    },
+    {
+      "id": 104,
+      "type": "office",
+      "bg": "Изпълни три бавни дзен карате движения във въздуха.",
+      "en": "Perform three slow Zen karate moves against the empty air."
+    },
+    {
+      "id": 105,
+      "type": "office",
+      "bg": "Попитай колега: „Можеш ли да ми заемеш малко свободно време?“.",
+      "en": "Ask a colleague: 'Can you lend me some spare time?'."
+    },
+    {
+      "id": 106,
+      "type": "office",
+      "bg": "Направи балонче с дъвка и го спукай точно когато в стаята настъпи тишина.",
+      "en": "Blow a bubble with gum and pop it exactly when the room goes quiet."
+    },
+    {
+      "id": 107,
+      "type": "office",
+      "bg": "Стой неподвижно като нинджа, докато някой не те забележи.",
+      "en": "Stand still like a ninja until someone notices you."
+    },
+    {
+      "id": 108,
+      "type": "office",
+      "bg": "Търкай ръцете си злодейски, докато гледаш към кафе машината.",
+      "en": "Rub your hands together villainously while looking at the coffee machine."
+    },
+    {
+      "id": 109,
+      "type": "office",
+      "bg": "Напиши „ТОВА Е ТАЙНА“ на лепящо листче и го скрий под бюрото си.",
+      "en": "Write 'IT'S A SECRET' on a sticky note and hide it under your desk."
+    },
+    {
+      "id": 110,
+      "type": "office",
+      "bg": "Провери дали можеш да събереш 5 химикалки в една ръка едновременно.",
+      "en": "Check if you can fit 5 pens in one hand at the same time."
+    },
+    {
+      "id": 111,
+      "type": "office",
+      "bg": "Гледай в тавана и се преструвай, че виждаш нещо изключително интересно.",
+      "en": "Look at the ceiling and pretend you see something extremely interesting."
+    },
+    {
+      "id": 112,
+      "type": "office",
+      "bg": "Опитай се да не мигаш в продължение на 30 секунди.",
+      "en": "Try not to blink for 30 seconds."
+    },
+    {
+      "id": 113,
+      "type": "office",
+      "bg": "Направи хартиено самолетче и го изстреляй към най-близкото кошче.",
+      "en": "Make a paper airplane and launch it toward the nearest bin."
+    },
+    {
+      "id": 114,
+      "type": "office",
+      "bg": "Използвай телбода си като телефон и кажи: „Да, слушам Ви“.",
+      "en": "Use your stapler as a phone and say: 'Yes, I'm listening'."
+    },
+    {
+      "id": 115,
+      "type": "office",
+      "bg": "Поеми три пъти дълбоко въздух, имитирайки Дарт Вейдър.",
+      "en": "Take three deep breaths imitating Darth Vader."
+    },
+    {
+      "id": 116,
+      "type": "office",
+      "bg": "Почеши се по главата с химикалка и кажи: „Хюстън, имаме проблем“.",
+      "en": "Scratch your head with a pen and say: 'Houston, we have a problem'."
+    },
+    {
+      "id": 117,
+      "type": "office",
+      "bg": "Опитай се да балансираш молив върху горната си устна.",
+      "en": "Try to balance a pencil on your upper lip."
+    },
+    {
+      "id": 118,
+      "type": "office",
+      "bg": "Напиши името си във въздуха с показалец.",
+      "en": "Write your name in the air with your index finger."
+    },
+    {
+      "id": 119,
+      "type": "office",
+      "bg": "Погледни часовника си и кажи: „Време е!“, без да поясняваш за какво.",
+      "en": "Look at your watch and say: 'It is time!' without clarifying what for."
+    },
+    {
+      "id": 120,
+      "type": "office",
+      "bg": "Разтривай ушите си в продължение на 20 секунди, за да подобриш кръвообращението.",
+      "en": "Rub your ears for 20 seconds to improve circulation."
+    },
+    {
+      "id": 121,
+      "type": "office",
+      "bg": "Преструвай се, че дирижираш оркестър, докато слушаш музика със слушалки.",
+      "en": "Pretend to conduct an orchestra while listening to music with headphones."
+    },
+    {
+      "id": 122,
+      "type": "office",
+      "bg": "Опитай се да разпериш пръстите на краката си (вътре в обувките) възможно най-широко.",
+      "en": "Try to spread your toes (inside your shoes) as wide as possible."
+    },
+    {
+      "id": 123,
+      "type": "office",
+      "bg": "Представи си, че си в космоса и се движи на забавен каданс за 30 секунди.",
+      "en": "Imagine you are in space and move in slow motion for 30 seconds."
+    },
+    {
+      "id": 124,
+      "type": "office",
+      "bg": "Мислено изпрати положителна енергия на колегата, който изглежда най-стресиран.",
+      "en": "Mentally send good energy to the colleague who looks the most stressed."
+    },
+    {
+      "id": 201,
+      "type": "store",
+      "bg": "Дай на най-близкия продукт тайна суперсила и му го прошепни.",
+      "en": "Give the nearest product a secret superpower and whisper it."
+    },
+    {
+      "id": 202,
+      "type": "store",
+      "bg": "Стой неподвижно за 10 секунди като манекен в магазин.",
+      "en": "Stand still for 10 seconds like a shop mannequin."
+    },
+    {
+      "id": 203,
+      "type": "store",
+      "bg": "Прошепни на един артикул: „Инвентаризацията е състояние на ума“.",
+      "en": "Whisper to an item: 'Inventory is a state of mind.'"
+    },
+    {
+      "id": 204,
+      "type": "store",
+      "bg": "Подреди три продукта по височина и им се поклони.",
+      "en": "Arrange three products by height and bow to them."
+    },
+    {
+      "id": 205,
+      "type": "store",
+      "bg": "Провери етикета на собствената си дреха и се престори на изненадан от цената.",
+      "en": "Check the tag on your own clothing and act surprised by the price."
+    },
+    {
+      "id": 206,
+      "type": "store",
+      "bg": "Върви по права линия в пътеката, сякаш си на модно дефиле.",
+      "en": "Walk in a straight line in the aisle like you're on a fashion runway."
+    },
+    {
+      "id": 207,
+      "type": "store",
+      "bg": "Погледни празен рафт и въздъхни драматично: „Отново ли...“.",
+      "en": "Look at an empty shelf and sigh dramatically: 'Not again...'"
+    },
+    {
+      "id": 208,
+      "type": "store",
+      "bg": "Поздрави количка за пазаруване с „Добър ден, капитане“.",
+      "en": "Greet a shopping cart with 'Good day, Captain.'"
+    },
+    {
+      "id": 209,
+      "type": "store",
+      "bg": "Преброй колко плочки на пода можеш да преминеш с три големи крачки.",
+      "en": "Count how many floor tiles you can cross with three large steps."
+    },
+    {
+      "id": 210,
+      "type": "store",
+      "bg": "Престори се, че сканираш невидим продукт с пръста си (използвай звук „Бип“).",
+      "en": "Pretend to scan an invisible product with your finger (use a 'Beep' sound)."
+    },
+    {
+      "id": 211,
+      "type": "store",
+      "bg": "Погледни се в огледало в магазина и си намигни одобрително.",
+      "en": "Look at yourself in a store mirror and give yourself an approving wink."
+    },
+    {
+      "id": 212,
+      "type": "store",
+      "bg": "Докосни пет различни текстури (пластмаса, метал, плат и т.н.) за 30 секунди.",
+      "en": "Touch five different textures (plastic, metal, fabric, etc.) in 30 seconds."
+    },
+    {
+      "id": 213,
+      "type": "store",
+      "bg": "Направи се, че търсиш „скрито съкровище“ зад консервите.",
+      "en": "Pretend you are looking for 'hidden treasure' behind the cans."
+    },
+    {
+      "id": 214,
+      "type": "store",
+      "bg": "Попитай колега (или себе си): „Това в наличност ли е в паралелната вселена?“.",
+      "en": "Ask a colleague (or yourself): 'Is this in stock in the parallel universe?'"
+    },
+    {
+      "id": 215,
+      "type": "store",
+      "bg": "Сложи си ръцете на кръста и огледай залата като шериф в уестърн.",
+      "en": "Put your hands on your hips and survey the hall like a sheriff in a Western."
+    },
+    {
+      "id": 216,
+      "type": "store",
+      "bg": "Подреди три продукта на рафта така, сякаш са на почетна стълбичка за победители. [cite: 23]",
+      "en": "Arrange three products on the shelf so they look like they’re on a winner's podium."
+    },
+    {
+      "id": 217,
+      "type": "store",
+      "bg": "Поздрави следващия клиент с „Добре дошли в бъдещето!“ и му намигни. [cite: 24]",
+      "en": "Greet the next customer with 'Welcome to the future!' and wink."
+    },
+    {
+      "id": 218,
+      "type": "store",
+      "bg": "Направи 5 дискретни клякания, докато се преструваш, че проверяваш наличността на долния рафт. [cite: 24]",
+      "en": "Do 5 discreet squats while pretending to check stock on the bottom shelf."
+    },
+    {
+      "id": 219,
+      "type": "store",
+      "bg": "Провери срока на годност на един продукт и му кажи: „Още си млад, имаш време“. [cite: 24]",
+      "en": "Check the expiration date of a product and tell it: 'You're still young, you have time'."
+    },
+    {
+      "id": 220,
+      "type": "store",
+      "bg": "Отиди до склада и направи почетна обиколка около първия палет, който видиш. [cite: 24]",
+      "en": "Go to the warehouse and do a victory lap around the first pallet you see."
+    },
+    {
+      "id": 221,
+      "type": "store",
+      "bg": "Използвай баркод скенера като светлинен меч за 5 секунди (когато никой не гледа). [cite: 24]",
+      "en": "Use the barcode scanner as a lightsaber for 5 seconds (when no one is looking)."
+    },
+    {
+      "id": 222,
+      "type": "store",
+      "bg": "Подреди количка за пазаруване според принципите на Фън Шуй в продължение на 1 минута. [cite: 24]",
+      "en": "Arrange a shopping cart according to Feng Shui principles for 1 minute."
+    },
+    {
+      "id": 223,
+      "type": "store",
+      "bg": "Попитайте колега: „Знаеш ли къде държим магическия прах за усмивки?“. [cite: 25]",
+      "en": "Ask a colleague: 'Do you know where we keep the magic smile powder?'."
+    },
+    {
+      "id": 224,
+      "type": "store",
+      "bg": "Оправи изкривен етикет и му направи лек поклон. [cite: 25]",
+      "en": "Fix a crooked label and give it a slight bow."
+    },
+    {
+      "id": 225,
+      "type": "store",
+      "bg": "Престори се, че водиш много важен разговор по радиото относно наличността на пластмасови вилици. [cite: 25]",
+      "en": "Pretend to have a very important radio call about the availability of plastic forks."
+    },
+    {
+      "id": 226,
+      "type": "store",
+      "bg": "Погледни се в огледало в секцията за аксесоари и кажи: „Днес ти си легенда!“. [cite: 25]",
+      "en": "Look in a mirror in the accessories section and say: 'Today, you are a legend!'."
+    },
+    {
+      "id": 227,
+      "type": "store",
+      "bg": "Опитай се да балансираш празна картонена кутия на един пръст за 10 секунди. [cite: 25]",
+      "en": "Try to balance an empty cardboard box on one finger for 10 seconds."
+    },
+    {
+      "id": 228,
+      "type": "store",
+      "bg": "Поздрави клиент с „Добър ден, пътешественико!“. [cite: 25]",
+      "en": "Greet a customer with 'Good day, traveler!'."
+    },
+    {
+      "id": 229,
+      "type": "store",
+      "bg": "Застани в поза на манекен (замръзни) за 30 секунди до някой стелаж. [cite: 25]",
+      "en": "Pose like a mannequin (freeze) for 30 seconds next to a display."
+    },
+    {
+      "id": 230,
+      "type": "store",
+      "bg": "Избърши праха от рафт, като използваш карате движения. [cite: 26]",
+      "en": "Wipe dust off a shelf using karate-style movements."
+    },
+    {
+      "id": 231,
+      "type": "store",
+      "bg": "Преброй колко червени артикула виждаш точно сега и кажи числото на глас. [cite: 26]",
+      "en": "Count how many red items you see right now and say the number out loud."
+    },
+    {
+      "id": 232,
+      "type": "store",
+      "bg": "Поеми 3 дълбоки вдишвания, докато държиш дръжката на хладилна витрина. [cite: 26]",
+      "en": "Take 3 deep breaths while holding the handle of a refrigerator display."
+    },
+    {
+      "id": 233,
+      "type": "store",
+      "bg": "Напиши „Най-добър избор!“ на лепящо листче и го залепи дискретно върху случаен продукт. [cite: 27]",
+      "en": "Write 'Best Choice!' on a sticky note and discreetly stick it on a random product."
+    },
+    {
+      "id": 234,
+      "type": "store",
+      "bg": "Покажи пътя на клиент до дадена секция, използвайки жестовете на стюардеса. [cite: 27]",
+      "en": "Show a customer the way to a section using flight attendant hand signals."
+    },
+    {
+      "id": 235,
+      "type": "store",
+      "bg": "Провери дали везната работи, като „претеглиш“ собствената си усмивка (метафорично). [cite: 27]",
+      "en": "Check if the scales work by 'weighing' your own smile (metaphorically)."
+    },
+    {
+      "id": 236,
+      "type": "store",
+      "bg": "Направи 10-секундна „лунна походка“, докато буташ празна количка. [cite: 27]",
+      "en": "Do a 10-second moonwalk while pushing an empty cart."
+    },
+    {
+      "id": 237,
+      "type": "store",
+      "bg": "Попитай колега: „Ти ли си избраният?“ и си тръгни без обяснение. [cite: 28]",
+      "en": "Ask a colleague: 'Are you the chosen one?' and walk away without explanation."
+    },
+    {
+      "id": 238,
+      "type": "store",
+      "bg": "Подреди кошниците за пазаруване по височина с хирургическа прецизност. [cite: 28]",
+      "en": "Stack shopping baskets by height with surgical precision."
+    },
+    {
+      "id": 239,
+      "type": "store",
+      "bg": "Кажи на манекен: „Изглеждаш страхотно днес, но ти липсва шал“. [cite: 28]",
+      "en": "Tell a mannequin: 'You look great today, but you're missing a scarf'."
+    },
+    {
+      "id": 240,
+      "type": "store",
+      "bg": "Опитай се да познаеш теглото на следващия продукт, който докоснеш, преди да погледнеш етикета. [cite: 28]",
+      "en": "Try to guess the weight of the next product you touch before looking at the label."
+    },
+    {
+      "id": 241,
+      "type": "store",
+      "bg": "Завърти се 3 пъти бързо около оста си в склада.",
+      "en": "Spin around 3 times quickly in the warehouse. [cite: 28]"
+    },
+    {
+      "id": 242,
+      "type": "store",
+      "bg": "Прошепни на картовия терминал: „Моля те, бъди бърз днес“.",
+      "en": "Whisper to the card terminal: 'Please be fast today'. [cite: 28]"
+    },
+    {
+      "id": 243,
+      "type": "store",
+      "bg": "Престори се на таен агент и огледай магазина през дупка в кашон.",
+      "en": "Pretend to be a secret agent and scout the store through a hole in a box. [cite: 28]"
+    },
+    {
+      "id": 244,
+      "type": "store",
+      "bg": "Използвай тиксо, за да „запечаташ“ въображаема пукнатина в пространствено-времевия континуум върху тезгяха.",
+      "en": "Use tape to 'seal' an imaginary crack in the space-time continuum on the counter. [cite: 29]"
+    },
+    {
+      "id": 245,
+      "type": "store",
+      "bg": "Всеки път, когато скенерът избие, прави малко роботизирано движение с рамене.",
+      "en": "Every time the scanner beeps, do a small robotic shoulder movement. [cite: 29]"
+    },
+    {
+      "id": 246,
+      "type": "store",
+      "bg": "Отиди в секцията за плодове и пожелай добър ден на най-голямата диня.",
+      "en": "Go to the fruit section and wish a good day to the biggest watermelon. [cite: 29]"
+    },
+    {
+      "id": 247,
+      "type": "store",
+      "bg": "Провери дали баджът ти е идеално прав, като използваш някое отражение.",
+      "en": "Check if your badge is perfectly straight using a reflection. [cite: 29]"
+    },
+    {
+      "id": 248,
+      "type": "store",
+      "bg": "Направи 3 скока в пробната (ако работиш в магазин за дрехи).",
+      "en": "Do 3 jumps in the fitting room (if you work in apparel). [cite: 29]"
+    },
+    {
+      "id": 249,
+      "type": "store",
+      "bg": "Отиди да намериш продукт, чието име започва със същата буква като твоето име.",
+      "en": "Try to find a product whose name starts with the same letter as your name. [cite: 29]"
+    },
+    {
+      "id": 250,
+      "type": "store",
+      "bg": "Избърши ръцете си в престилката/униформата три пъти за късмет.",
+      "en": "Wipe your hands on your apron/uniform three times for luck. [cite: 29]"
+    },
+    {
+      "id": 251,
+      "type": "store",
+      "bg": "Погледни към охранителната камера и покажи знака на мира (V-образно с пръсти).",
+      "en": "Look at the security camera and give a peace sign (V-sign). [cite: 30]"
+    },
+    {
+      "id": 252,
+      "type": "store",
+      "bg": "Остави бележка в склада: „Елвис беше тук“.",
+      "en": "Leave a note in the warehouse: 'Elvis was here'. [cite: 30]"
+    },
+    {
+      "id": 253,
+      "type": "store",
+      "bg": "Попитай клиент: „Търсите ли нещо конкретно или просто събирате вдъхновение?“.",
+      "en": "Ask a customer: 'Are you looking for something specific or just gathering inspiration?'. [cite: 30]"
+    },
+    {
+      "id": 254,
+      "type": "store",
+      "bg": "Престори се, че дирижираш фоновата музика за 20 секунди.",
+      "en": "Pretend to conduct the background music for 20 seconds. [cite: 30]"
+    },
+    {
+      "id": 255,
+      "type": "store",
+      "bg": "Преброй колко клиенти носят синьо в следващите 2 минути.",
+      "en": "Count how many customers are wearing blue in the next 2 minutes. [cite: 30]"
+    },
+    {
+      "id": 256,
+      "type": "store",
+      "bg": "Завърти ключовете си на пръста (ако имаш такива) като шериф.",
+      "en": "Spin your keys on your finger (if you have them) like a sheriff. [cite: 30]"
+    },
+    {
+      "id": 257,
+      "type": "store",
+      "bg": "Оправи пирамида от консерви/кутии, сякаш градиш храм.",
+      "en": "Fix a pyramid of cans/boxes like you're building a temple. [cite: 30]"
+    },
+    {
+      "id": 258,
+      "type": "store",
+      "bg": "Кажи на следващия клиент: „Избрахте най-добрата бройка от този продукт!“.",
+      "en": "Tell the next customer: 'You picked the best unit of this product!'. [cite: 31]"
+    },
+    {
+      "id": 259,
+      "type": "store",
+      "bg": "Направи 5-секундна йога поза „Дърво“, докато чакаш на касата.",
+      "en": "Do a 5-second 'Tree' yoga pose while waiting at the register. [cite: 31]"
+    },
+    {
+      "id": 260,
+      "type": "store",
+      "bg": "Провери дали химикалката ти работи, като нарисуваш малко усмихнато лице на палеца си.",
+      "en": "Check if your pen works by drawing a tiny smiley on your thumb. [cite: 31]"
+    },
+    {
+      "id": 261,
+      "type": "store",
+      "bg": "Преброй парите в чекмеджето (наум) и кажи: „Чисто злато!“.",
+      "en": "Count the money in the drawer (mentally) and say: 'Pure gold!'. [cite: 31]"
+    },
+    {
+      "id": 262,
+      "type": "store",
+      "bg": "Отиди до най-далечния ъгъл на магазина и се върни със скоростта на светлината.",
+      "en": "Go to the farthest corner of the store and return at the speed of light. [cite: 31]"
+    },
+    {
+      "id": 263,
+      "type": "store",
+      "bg": "Затвори очи за 10 секунди и се опитай да познаеш кой продукт къде се намира по миризмата.",
+      "en": "Close your eyes for 10 seconds and try to guess which product is where by smell. [cite: 31]"
+    },
+    {
+      "id": 264,
+      "type": "store",
+      "bg": "Потупай се по рамото и кажи: „Добра работа, шампионе!“.",
+      "en": "Pat yourself on the shoulder and say: 'Good job, champ!'. [cite: 32]"
+    },
+    {
+      "id": 265,
+      "type": "store",
+      "bg": "Престори се, че четеш съставките на пакет сол с огромен интерес.",
+      "en": "Pretend to read the ingredients of a salt packet with great interest. [cite: 32]"
+    },
+    {
+      "id": 266,
+      "type": "store",
+      "bg": "Поклони се на първия клиент, който излиза от магазина с покупка.",
+      "en": "Bow to the first customer who leaves with a purchase."
+    },
+    {
+      "id": 267,
+      "type": "store",
+      "bg": "Опитай се да вървиш само по цветните плочки на пода (ако има такива).",
+      "en": "Try to walk only on colored floor tiles (if any)."
+    },
+    {
+      "id": 268,
+      "type": "store",
+      "bg": "Направи 3 бързи клякания в момента, в който автоматичната врата се отвори.",
+      "en": "Do 3 quick squats the moment the automatic door opens."
+    },
+    {
+      "id": 269,
+      "type": "store",
+      "bg": "Кажи името на магазина на глас, но наобратно.",
+      "en": "Say the name of the store out loud, but backwards."
+    },
+    {
+      "id": 270,
+      "type": "store",
+      "bg": "Подреди закачалките така, че всички да сочат в една и съща посока.",
+      "en": "Arrange the hangers so they all point in the same direction."
+    },
+    {
+      "id": 271,
+      "type": "store",
+      "bg": "Погледни към тавана и се престори, че търсиш изгубен дрон.",
+      "en": "Look at the ceiling and pretend to look for a lost drone."
+    },
+    {
+      "id": 272,
+      "type": "store",
+      "bg": "Направи жест на фокусник, след като подадеш касовата бележка на клиента.",
+      "en": "Make a magician's gesture after handing the receipt to the customer."
+    },
+    {
+      "id": 273,
+      "type": "store",
+      "bg": "Отиди до фризера и почувствай студа за 5 секунди (екстремно рестартиране).",
+      "en": "Go to the freezer and feel the cold for 5 seconds (extreme reset)."
+    },
+    {
+      "id": 274,
+      "type": "store",
+      "bg": "Опитай се да отвориш найлонова торбичка, използвайки само една ръка.",
+      "en": "Try to open a plastic bag using only one hand."
+    },
+    {
+      "id": 275,
+      "type": "store",
+      "bg": "Попитай колега: „Как е Силата днес?“ (препратка към Междузвездни войни).",
+      "en": "Ask a colleague: 'How is the Force today?'."
+    },
+    {
+      "id": 276,
+      "type": "store",
+      "bg": "Направи изненадано лице, когато видиш цената на случаен продукт.",
+      "en": "Make a surprised face when you see the price of a random product."
+    },
+    {
+      "id": 277,
+      "type": "store",
+      "bg": "Разтрий дланите си една в друга, сякаш подготвяш велик план.",
+      "en": "Rub your palms together as if preparing a grand plan."
+    },
+    {
+      "id": 278,
+      "type": "store",
+      "bg": "Преброй колко секунди отнема на следващия клиент да избере нещо.",
+      "en": "Count how many seconds it takes for the next customer to choose something."
+    },
+    {
+      "id": 279,
+      "type": "store",
+      "bg": "Престори се, че чистиш невидима прах от рамото на манекен.",
+      "en": "Pretend to clean invisible dust off a mannequin's shoulder."
+    },
+    {
+      "id": 280,
+      "type": "store",
+      "bg": "Тихо казвай „Опс!“ всеки път, когато слагаш нещо в торба.",
+      "en": "Quietly say 'Oopsie!' every time you put something in a bag."
+    },
+    {
+      "id": 281,
+      "type": "store",
+      "bg": "Погледни баркод и се опитай да го прочетеш като телефонен номер.",
+      "en": "Look at a barcode and try to read it as a phone number."
+    },
+    {
+      "id": 282,
+      "type": "store",
+      "bg": "Заеми поза на супергерой (ръце на хълбоците) за 10 секунди пред огледало.",
+      "en": "Strike a superhero pose (hands on hips) for 10 seconds in front of a mirror."
+    },
+    {
+      "id": 283,
+      "type": "store",
+      "bg": "Попитай клиент: „Имате ли нужда от навигация в този лабиринт от изкушения?“.",
+      "en": "Ask a customer: 'Do you need navigation in this labyrinth of temptations?'."
+    },
+    {
+      "id": 284,
+      "type": "store",
+      "bg": "Направи 3 бавни кръга с глава, за да отпуснеш врата си.",
+      "en": "Do 3 slow head circles to loosen your neck."
+    },
+    {
+      "id": 285,
+      "type": "store",
+      "bg": "Провери дали всички етикети с цени са подравнени до милиметър.",
+      "en": "Check if all price tags are aligned to the millimeter."
+    },
+    {
+      "id": 286,
+      "type": "store",
+      "bg": "Остави кламер на тезгяха и го наречи „моят талисман“.",
+      "en": "Leave a paperclip on the counter and call it 'my talisman'."
+    },
+    {
+      "id": 287,
+      "type": "store",
+      "bg": "Направи жест на дискохвъргач, когато прибираш празен палет.",
+      "en": "Make a discus-thrower gesture when putting away an empty pallet."
+    },
+    {
+      "id": 288,
+      "type": "store",
+      "bg": "Кажи на колега: „Ние сме А-отборът!“.",
+      "en": "Tell a colleague: 'We are the A-Team!'."
+    },
+    {
+      "id": 289,
+      "type": "store",
+      "bg": "Опитай се да стоиш на пръсти за 15 секунди, докато обслужваш клиент.",
+      "en": "Try to stand on your tiptoes for 15 seconds while serving a customer."
+    },
+    {
+      "id": 290,
+      "type": "store",
+      "bg": "Престори се, че свириш на тромпет с ролка кухненска хартия (дискретно).",
+      "en": "Pretend to play a trumpet with a roll of paper towels (discreetly)."
+    },
+    {
+      "id": 291,
+      "type": "store",
+      "bg": "Преброй колко стъпки са нужни от касата до входа.",
+      "en": "Count how many steps it takes from the register to the entrance."
+    },
+    {
+      "id": 292,
+      "type": "store",
+      "bg": "Напиши думата „ПРОДАЖБА“ във въздуха с пръст.",
+      "en": "Write the word 'SALE' in the air with your finger."
+    },
+    {
+      "id": 293,
+      "type": "store",
+      "bg": "Погледни през прозореца и провери дали светът все още е там.",
+      "en": "Look out the window and check if the world is still there."
+    },
+    {
+      "id": 294,
+      "type": "store",
+      "bg": "Направи малко движение с бедрата (в стил салса), докато подреждаш рафтовете.",
+      "en": "Do a little hip movement (salsa style) while stocking shelves."
+    },
+    {
+      "id": 295,
+      "type": "store",
+      "bg": "Попитай следващия клиент: „Прекрасен ден за пазаруване, нали?“.",
+      "en": "Ask the next customer: 'It's a beautiful day for shopping, isn't it?'."
+    },
+    {
+      "id": 296,
+      "type": "store",
+      "bg": "Задръж дъха си за 5 секунди и издишай бавно, представяйки си плаж.",
+      "en": "Hold your breath for 5 seconds and exhale slowly, imagining a beach."
+    },
+    {
+      "id": 297,
+      "type": "store",
+      "bg": "Провери джобовете си за „скрити съкровища“ (или стари бележки).",
+      "en": "Check your pockets for 'hidden treasures' (or old receipts)."
+    },
+    {
+      "id": 298,
+      "type": "store",
+      "bg": "Вдигни палец нагоре (thumbs up) на първия човек, който ти се усмихне.",
+      "en": "Give a 'thumbs up' to the first person who smiles at you."
+    },
+    {
+      "id": 299,
+      "type": "store",
+      "bg": "Погледни часовника си и кажи: „Точно навреме за успех!“.",
+      "en": "Look at your watch and say: 'Right on time for success!'."
+    },
+    {
+      "id": 300,
+      "type": "store",
+      "bg": "Подреди три кашона като Хеопсовата пирамида в Гиза.",
+      "en": "Stack three boxes like the Great Pyramid of Giza."
+    },
+    {
+      "id": 301,
+      "type": "store",
+      "bg": "Опитай се да направиш възможно най-дългата касова бележка (за тест).",
+      "en": "Try to make the longest possible receipt (for a test)."
+    },
+    {
+      "id": 302,
+      "type": "store",
+      "bg": "Тихо си кажи „Браво!“ след всяка успешна транзакция.",
+      "en": "Quietly say 'Bravo!' to yourself after every successful transaction."
+    },
+    {
+      "id": 303,
+      "type": "store",
+      "bg": "Престори се, че проверяваш за вятър в магазина, като вдигнеш намокрен пръст.",
+      "en": "Pretend to check for wind in the store by holding up a wet finger."
+    },
+    {
+      "id": 304,
+      "type": "store",
+      "bg": "Отиди в секцията с почистващи препарати и вдишай аромата на свежест.",
+      "en": "Go to the cleaning supplies section and inhale the scent of freshness."
+    },
+    {
+      "id": 305,
+      "type": "store",
+      "bg": "Дай на колега „High Five“, ако ситуацията го позволява.",
+      "en": "Give a colleague a High Five if the situation allows."
+    },
+    {
+      "id": 306,
+      "type": "store",
+      "bg": "Направи физиономия на облекчение, след като дълга опашка от клиенти свърши.",
+      "en": "Make a face of relief after a long line of customers finishes."
+    },
+    {
+      "id": 307,
+      "type": "store",
+      "bg": "Опитай се да предвидиш дали следващият клиент ще плати в брой или с карта.",
+      "en": "Try to predict if the next customer will pay with cash or card."
+    },
+    {
+      "id": 308,
+      "type": "store",
+      "bg": "Направи кратък спринт (3-4 стъпки) до някой рафт.",
+      "en": "Do a short sprint (3-4 steps) to a shelf."
+    },
+    {
+      "id": 309,
+      "type": "store",
+      "bg": "Попитай клиент: „Вярвате ли в любовта от пръв поглед към този продукт?“.",
+      "en": "Ask a customer: 'Do you believe in love at first sight with this product?'."
+    },
+    {
+      "id": 310,
+      "type": "store",
+      "bg": "Използвай картонен кашон като барабан и го удари три пъти.",
+      "en": "Use a cardboard box as a drum and hit it three times."
+    },
+    {
+      "id": 311,
+      "type": "store",
+      "bg": "Престори се, че четеш вестник, докато всъщност гледаш етикетите.",
+      "en": "Pretend to read a newspaper while actually looking at labels."
+    },
+    {
+      "id": 312,
+      "type": "store",
+      "bg": "Завърти главата си на 180 градуса (колкото можеш), за да видиш кой влиза.",
+      "en": "Turn your head 180 degrees (as much as you can) to see who's entering."
+    },
+    {
+      "id": 313,
+      "type": "store",
+      "bg": "Направи жест с юмрук „Да!“, когато намериш нещо изгубено.",
+      "en": "Make a 'Yes!' fist gesture when you find something lost."
+    },
+    {
+      "id": 314,
+      "type": "store",
+      "bg": "Попитай колега: „Кое е най-странното нещо, което чу днес?“.",
+      "en": "Ask a colleague: 'What's the strangest thing you've heard today?'."
+    },
+    {
+      "id": 401,
+      "type": "production",
+      "bg": "Дай име на най-близката машина, сякаш е филмов герой.",
+      "en": "Name the nearest machine like it is a movie character."
+    },
+    {
+      "id": 402,
+      "type": "production",
+      "bg": "Стой неподвижно за 10 секунди и кимай, сякаш разбираш всичко.",
+      "en": "Stand still for 10 seconds and nod like you understand everything."
+    },
+    {
+      "id": 403,
+      "type": "production",
+      "bg": "Погледни най-близкия инструмент с драматично уважение.",
+      "en": "Look at the nearest tool with dramatic respect."
+    },
+    {
+      "id": 404,
+      "type": "production",
+      "bg": "Кажи със сериозно лице: „Системата изисква рестартиране“.",
+      "en": "Say: 'The system requires a restart.' with a serious face."
+    },
+    {
+      "id": 405,
+      "type": "production",
+      "bg": "Направи 3 стъпки като много уморен супервайзор.",
+      "en": "Walk 3 steps like a very tired supervisor."
+    },
+    {
+      "id": 406,
+      "type": "production",
+      "bg": "Направи 5 бавни кръга с рамене назад, за да отпуснеш гърба си.",
+      "en": "Do 5 slow shoulder circles backward to relax your back."
+    },
+    {
+      "id": 407,
+      "type": "production",
+      "bg": "Гледай в най-далечната точка на цеха за 10 секунди, за да си починат очите ти.",
+      "en": "Look at the farthest point in the shop floor for 10 seconds to rest your eyes."
+    },
+    {
+      "id": 408,
+      "type": "production",
+      "bg": "Разтрий дланите си една в друга, докато почувстваш топлина.",
+      "en": "Rub your palms together until you feel heat."
+    },
+    {
+      "id": 409,
+      "type": "production",
+      "bg": "Преброй 5 сини обекта в зрителното си поле, без да се движиш.",
+      "en": "Count 5 blue objects in your field of vision without moving."
+    },
+    {
+      "id": 410,
+      "type": "production",
+      "bg": "Поеми 3 дълбоки вдишвания през носа и издишай през устата.",
+      "en": "Take 3 deep breaths in through the nose and out through the mouth."
+    },
+    {
+      "id": 411,
+      "type": "production",
+      "bg": "Провери дали баджът ти или предпазната екипировка са идеално поставени.",
+      "en": "Check if your badge or safety gear is perfectly positioned."
+    },
+    {
+      "id": 412,
+      "type": "production",
+      "bg": "Погледни ръцете си и благодари на пръстите си за тяхната сръчност.",
+      "en": "Look at your hands and thank your fingers for their dexterity."
+    },
+    {
+      "id": 413,
+      "type": "production",
+      "bg": "Свий и отпусни юмруци 10 пъти, за да раздвижиш китките си.",
+      "en": "Clench and release your fists 10 times to move your wrists."
+    },
+    {
+      "id": 414,
+      "type": "production",
+      "bg": "Представи си, че отпиваш глътка студена изворна вода.",
+      "en": "Imagine taking a sip of cold spring water."
+    },
+    {
+      "id": 415,
+      "type": "production",
+      "bg": "Направи 3 бавни ротации на главата наляво и надясно.",
+      "en": "Do 3 slow head rotations left and right."
+    },
+    {
+      "id": 416,
+      "type": "production",
+      "bg": "Поздрави най-близкия мотокар с „Добър ден, колега“.",
+      "en": "Greet the nearest forklift with 'Good day, colleague'."
+    },
+    {
+      "id": 417,
+      "type": "production",
+      "bg": "Престори се, че проверяваш нивото на „въображаемото масло“ в гаечен ключ.",
+      "en": "Pretend to check the 'imaginary oil' level in a wrench."
+    },
+    {
+      "id": 418,
+      "type": "production",
+      "bg": "Направи 5 дискретни клякания, докато чакаш края на цикъл на машина.",
+      "en": "Do 5 discreet squats while waiting for a machine cycle to finish."
+    },
+    {
+      "id": 419,
+      "type": "production",
+      "bg": "Погледни към таблото с инструкции и кимни мъдро, сякаш си ги писал ти.",
+      "en": "Look at the instruction board and nod wisely, as if you wrote them yourself."
+    },
+    {
+      "id": 420,
+      "type": "production",
+      "bg": "Провери дали предпазните ти очила/ръкавици са „в бойна готовност“.",
+      "en": "Check if your safety glasses/gloves are 'battle-ready'."
+    },
+    {
+      "id": 421,
+      "type": "production",
+      "bg": "Избърши невидима прашинка от работната си маса с професионален замах.",
+      "en": "Wipe an invisible dust mote off your workbench with a professional flourish."
+    },
+    {
+      "id": 422,
+      "type": "production",
+      "bg": "Почукай по метален предмет три пъти за късмет на смяната.",
+      "en": "Tap on a metal object three times for luck on your shift."
+    },
+    {
+      "id": 423,
+      "type": "production",
+      "bg": "Преброй колко жълти линии виждаш на пода около теб.",
+      "en": "Count how many yellow lines you see on the floor around you."
+    },
+    {
+      "id": 424,
+      "type": "production",
+      "bg": "Направи жест с палец нагоре към добре работеща машина.",
+      "en": "Give a thumbs-up to a well-running machine."
+    },
+    {
+      "id": 425,
+      "type": "production",
+      "bg": "Прошепни на един болт: „Ти държиш всичко тук, не го забравяй“.",
+      "en": "Whisper to a bolt: 'You’re holding everything together, don’t forget it'."
+    },
+    {
+      "id": 426,
+      "type": "production",
+      "bg": "Застани в поза на „Мислителя“ за 15 секунди, докато гледаш чертеж или схема.",
+      "en": "Assume 'The Thinker' pose for 15 seconds while looking at a blueprint or diagram."
+    },
+    {
+      "id": 427,
+      "type": "production",
+      "bg": "Направи 3 бавни кръга с китките си, за да ги отпуснеш.",
+      "en": "Do 3 slow wrist circles to relax them."
+    },
+    {
+      "id": 428,
+      "type": "production",
+      "bg": "Отиди до чешмата и измий ръцете си, сякаш се подготвяш за сложна операция.",
+      "en": "Go to the sink and wash your hands as if preparing for a complex surgery."
+    },
+    {
+      "id": 429,
+      "type": "production",
+      "bg": "Попитай колега: „Чуваш ли ритъма на производството днес?“.",
+      "en": "Ask a colleague: 'Can you hear the rhythm of production today?'."
+    },
+    {
+      "id": 430,
+      "type": "production",
+      "bg": "Погледни към часовника и кажи: „Ефективността е на ниво“.",
+      "en": "Look at the clock and say: 'Efficiency is on point'."
+    },
+    {
+      "id": 431,
+      "type": "production",
+      "bg": "Преброй стъпките си от една машина до друга.",
+      "en": "Count your steps from one machine to another."
+    },
+    {
+      "id": 432,
+      "type": "production",
+      "bg": "Направи 5-секундна „победна поза“ след успешно завършена задача.",
+      "en": "Do a 5-second 'victory pose' after successfully finishing a task."
+    },
+    {
+      "id": 433,
+      "type": "production",
+      "bg": "Използвай отвертка (или подобен инструмент) като диригентска палка за 10 секунди.",
+      "en": "Use a screwdriver (or similar tool) as a conductor's baton for 10 seconds."
+    },
+    {
+      "id": 434,
+      "type": "production",
+      "bg": "Погледни в празен контейнер и кажи: „Скоро тук ще има шедьоври“.",
+      "en": "Look into an empty container and say: 'Soon, there will be masterpieces here'."
+    },
+    {
+      "id": 435,
+      "type": "production",
+      "bg": "Вземи дълбоко въздух и си представи, че си на планински връх.",
+      "en": "Take a deep breath and imagine you are on a mountain peak."
+    },
+    {
+      "id": 436,
+      "type": "production",
+      "bg": "Провери дали всички кутии са подредени под прав ъгъл.",
+      "en": "Check if all boxes are stacked at a right angle."
+    },
+    {
+      "id": 437,
+      "type": "production",
+      "bg": "Направи 3 бавни повдигания на пръсти, за да раздвижиш прасците си.",
+      "en": "Do 3 slow calf raises to stretch your legs."
+    },
+    {
+      "id": 438,
+      "type": "production",
+      "bg": "Кажи на колега: „Ти си двигателят на този екип!“.",
+      "en": "Tell a colleague: 'You are the engine of this team!'"
+    },
+    {
+      "id": 439,
+      "type": "production",
+      "bg": "Опитай се да хванеш въображаема светлинна частица във въздуха.",
+      "en": "Try to catch an imaginary light particle in the air."
+    },
+    {
+      "id": 440,
+      "type": "production",
+      "bg": "Погледни се в отражението на някоя метална повърхност и си намигни.",
+      "en": "Look at your reflection in a metal surface and wink."
+    }
+  ]
+}{
+  "missions": [
+    {
+      "id": 441,
+      "type": "production",
+      "bg": "Огледай се бавно, сякаш си чул странен шум от машина, която дори не работи.",
+      "en": "Look around slowly as if you heard a strange noise from a machine that isn't even running."
+    },
+    {
+      "id": 442,
+      "type": "production",
+      "bg": "Направи „контролно докосване“ на три различни повърхности, за да провериш температурата им.",
+      "en": "Do a 'control touch' on three different surfaces to check their temperature."
+    },
+    {
+      "id": 443,
+      "type": "production",
+      "bg": "Избърши челото си драматично и кажи: „Още един детайл към съвършенството“.",
+      "en": "Wipe your forehead dramatically and say: 'One more detail toward perfection'."
+    },
+    {
+      "id": 444,
+      "type": "production",
+      "bg": "Подреди инструментите си по големина в перфектна линия.",
+      "en": "Arrange your tools by size in a perfect line."
+    },
+    {
+      "id": 445,
+      "type": "production",
+      "bg": "Направи 5-секундна пауза, гледайки в една точка, за „калибриране на съзнанието“.",
+      "en": "Take a 5-second pause, staring at one point, for 'mind calibration'."
+    },
+    {
+      "id": 446,
+      "type": "production",
+      "bg": "Стисни и отпусни юмруците си 10 пъти, за да раздвижиш китките си.",
+      "en": "Clench and release your fists 10 times to move your wrists."
+    },
+    {
+      "id": 447,
+      "type": "production",
+      "bg": "Представи си, че отпиваш глътка студена изворна вода.",
+      "en": "Imagine taking a sip of cold spring water."
+    },
+    {
+      "id": 448,
+      "type": "production",
+      "bg": "Направи 3 бавни ротации на главата наляво и надясно.",
+      "en": "Do 3 slow head rotations left and right."
+    },
+    {
+      "id": 449,
+      "type": "production",
+      "bg": "Разтрий меката част на ушите си за 15 секунди за по-добра концентрация.",
+      "en": "Rub your earlobes for 15 seconds to improve concentration."
+    },
+    {
+      "id": 450,
+      "type": "production",
+      "bg": "Стегни коремните си мускули за 5 секунди и отпусни бавно.",
+      "en": "Tense your abs for 5 seconds and release slowly."
+    },
+    {
+      "id": 451,
+      "type": "production",
+      "bg": "Погледни обувките си и се увери, че са здраво стъпили на земята.",
+      "en": "Look at your shoes and ensure they are firmly planted."
+    },
+    {
+      "id": 452,
+      "type": "production",
+      "bg": "Направи 10 повдигания на прасци, без да напускаш работното си място.",
+      "en": "Do 10 calf raises without leaving your workstation."
+    },
+    {
+      "id": 453,
+      "type": "production",
+      "bg": "Провери дали раменете ти не са свити към ушите и ги отпусни надолу.",
+      "en": "Check if your shoulders are hunched toward your ears and drop them."
+    },
+    {
+      "id": 454,
+      "type": "production",
+      "bg": "Кажи тихо „Справям се добре“, след като приключиш със следващия детайл.",
+      "en": "Quietly say 'Doing well' after finishing the next part."
+    },
+    {
+      "id": 455,
+      "type": "production",
+      "bg": "Погледни часовника и преброй 10 секунди, дишайки ритмично.",
+      "en": "Look at the clock and count 10 seconds while breathing rhythmically."
+    },
+    {
+      "id": 456,
+      "type": "production",
+      "bg": "Размърдай пръстите на краката си вътре в работните обувки.",
+      "en": "Wiggle your toes inside your boots."
+    },
+    {
+      "id": 457,
+      "type": "production",
+      "bg": "Помисли за любимото си ястие за точно 5 секунди.",
+      "en": "Think of your favorite meal for exactly 5 seconds."
+    },
+    {
+      "id": 458,
+      "type": "production",
+      "bg": "Разпери пръстите на ръцете си колкото можеш, след което ги свий в юмрук.",
+      "en": "Spread your fingers as wide as possible and then clench them."
+    },
+    {
+      "id": 459,
+      "type": "production",
+      "bg": "Направи 3 дихателни цикъла: вдишване за 4 сек., издишване за 4 сек.",
+      "en": "Do 3 'breathing cycles': inhale for 4s, exhale for 4s."
+    },
+    {
+      "id": 460,
+      "type": "production",
+      "bg": "Представи си, че краката ти са корени на дърво, които здраво държат пода.",
+      "en": "Imagine your feet are tree roots firmly gripping the floor."
+    },
+    {
+      "id": 461,
+      "type": "production",
+      "bg": "Направи 5 леки кръга с китките в двете посоки.",
+      "en": "Do 5 light wrist circles in both directions."
+    },
+    {
+      "id": 462,
+      "type": "production",
+      "bg": "Помисли за първото нещо, което ще направиш, когато се прибереш вкъщи.",
+      "en": "Think of the first thing you will do when you get home."
+    },
+    {
+      "id": 463,
+      "type": "production",
+      "bg": "Провери дали челюстта ти е стисната и я отпусни.",
+      "en": "Check if your jaw is clenched and relax it."
+    },
+    {
+      "id": 464,
+      "type": "production",
+      "bg": "Вдишай бавно 3 пъти, представяйки си аромата на бор.",
+      "en": "Take 3 slow breaths imagining the scent of pine."
+    },
+    {
+      "id": 465,
+      "type": "production",
+      "bg": "Преброй 3 неща на пода, които в момента са в перфектен ред.",
+      "en": "Count 3 things on the floor that are working perfectly right now."
+    },
+    {
+      "id": 466,
+      "type": "production",
+      "bg": "Стегни мускулите на седалището за 5 секунди и ги отпусни[cite: 48].",
+      "en": "Squeeze your glutes for 5 seconds and release[cite: 48]."
+    },
+    {
+      "id": 467,
+      "type": "production",
+      "bg": "Направи 10-секундна „ментална пауза“ – не мисли за нищо[cite: 49].",
+      "en": "Take a 10-second 'mental pause' – think of nothing[cite: 49]."
+    },
+    {
+      "id": 468,
+      "type": "production",
+      "bg": "Погледни инструмента или машината си и я наречи „партньор“ в ума си[cite: 49].",
+      "en": "Look at your tool or machine and call it 'partner' in your head[cite: 49]."
+    },
+    {
+      "id": 469,
+      "type": "production",
+      "bg": "Завърти единия си глезен, докато стоиш стабилно на другия крак[cite: 49].",
+      "en": "Rotate one ankle while standing firmly on the other foot[cite: 49]."
+    },
+    {
+      "id": 470,
+      "type": "production",
+      "bg": "Спомни си виц или шега, която те е накарала да се смееш наскоро[cite: 49].",
+      "en": "Think of a joke that made you laugh recently[cite: 49]."
+    },
+    {
+      "id": 471,
+      "type": "production",
+      "bg": "Направи 5 леки свивания на раменете нагоре[cite: 49].",
+      "en": "Do 5 light shoulder shrugs[cite: 49]."
+    },
+    {
+      "id": 472,
+      "type": "production",
+      "bg": "Направи 3 дълги и бавни издишвания, сякаш духаш горещ чай[cite: 49].",
+      "en": "Take 3 long, slow exhales as if blowing on hot tea[cite: 49]."
+    },
+    {
+      "id": 473,
+      "type": "production",
+      "bg": "Погледни пода и се увери, че работната ти зона е напълно чиста[cite: 50].",
+      "en": "Look at the floor and ensure your zone is completely clear[cite: 50]."
+    },
+    {
+      "id": 474,
+      "type": "production",
+      "bg": "Помисли за трима души, които те карат да се усмихваш[cite: 50].",
+      "en": "Think of three people who make you smile[cite: 50]."
+    },
+    {
+      "id": 475,
+      "type": "production",
+      "bg": "Мигни 5 пъти възможно най-бързо[cite: 50].",
+      "en": "Do 5 eye blinks as fast as possible[cite: 50]."
+    },
+    {
+      "id": 476,
+      "type": "production",
+      "bg": "Стегни мускулите на прасците за 3 секунди и отпусни[cite: 50].",
+      "en": "Tense your calf muscles for 3 seconds and release[cite: 50]."
+    },
+    {
+      "id": 477,
+      "type": "production",
+      "bg": "Разгледай линиите на дланите си за момент[cite: 50].",
+      "en": "Look at your palms and notice the lines on them for a moment[cite: 50]."
+    },
+    {
+      "id": 478,
+      "type": "production",
+      "bg": "Представи си, че си в тихо място в гората за 10 секунди[cite: 50].",
+      "en": "Imagine you are in a quiet forest spot for 10 seconds[cite: 50]."
+    },
+    {
+      "id": 479,
+      "type": "production",
+      "bg": "Направи 2 бавни кръга с таза (ако пространството позволява)[cite: 50].",
+      "en": "Do 2 slow hip circles (if space allows)[cite: 50]."
+    },
+    {
+      "id": 480,
+      "type": "production",
+      "bg": "Помисли за най-успешния си момент от днешния ден досега[cite: 50, 51].",
+      "en": "Think of your most successful moment so far today[cite: 50, 51]."
+    },
+    {
+      "id": 481,
+      "type": "production",
+      "bg": "Провери дали дишаш през носа – това успокоява нервите[cite: 51].",
+      "en": "Check if you are breathing through your nose – it calms the nerves[cite: 51]."
+    },
+    {
+      "id": 482,
+      "type": "production",
+      "bg": "Направи знака „ОК“ с една ръка към себе си[cite: 51].",
+      "en": "Make an 'OK' sign with one hand to yourself[cite: 51]."
+    },
+    {
+      "id": 483,
+      "type": "production",
+      "bg": "Погледни към източник на светлина и почувствай енергията[cite: 51].",
+      "en": "Look toward a light source and feel the energy[cite: 51]."
+    },
+    {
+      "id": 484,
+      "type": "production",
+      "bg": "Преброй колко болта или детайла има в момента пред теб[cite: 51].",
+      "en": "Count how many bolts or parts are currently in front of you[cite: 51]."
+    },
+    {
+      "id": 485,
+      "type": "production",
+      "bg": "Направи 3 бавни „радостни вдишвания“ – дълбоки и пълни[cite: 51].",
+      "en": "Take 3 slow 'joy breaths' – deep and full[cite: 51]."
+    },
+    {
+      "id": 486,
+      "type": "production",
+      "bg": "Помисли за цвета, който те успокоява най-много.",
+      "en": "Think of the color that calms you the most." [cite: 51]
+    },
+    {
+      "id": 487,
+      "type": "production",
+      "bg": "Стегни мускулите на бедрата си за 5 секунди.",
+      "en": "Tense your thigh muscles for 5 seconds." [cite: 51]
+    },
+    {
+      "id": 488,
+      "type": "production",
+      "bg": "Погледни работното си облекло и се почувствай като професионалист.",
+      "en": "Look at your work clothes and feel like a professional." [cite: 52]
+    },
+    {
+      "id": 489,
+      "type": "production",
+      "bg": "Направи 5 малки кръга с показалците си.",
+      "en": "Do 5 small circles with your index fingers." [cite: 52]
+    },
+    {
+      "id": 490,
+      "type": "production",
+      "bg": "Пожелай си наум „Безопасна смяна“.",
+      "en": "Mentally wish yourself a 'Safe shift'." [cite: 52]
+    },
+    {
+      "id": 491,
+      "type": "production",
+      "bg": "Помисли за песента, която искаш да чуеш в края на деня.",
+      "en": "Think of the song you want to hear at the end of the day." [cite: 52]
+    },
+    {
+      "id": 492,
+      "type": "production",
+      "bg": "Провери дали гърбът ти е изправен, докато извършваш движение.",
+      "en": "Check if your back is straight while performing a movement." [cite: 52]
+    },
+    {
+      "id": 493,
+      "type": "production",
+      "bg": "Направи 3 бавни завъртания на главата, сякаш казваш „Не“.",
+      "en": "Do 3 slow head turns as if saying 'No'." [cite: 52]
+    },
+    {
+      "id": 494,
+      "type": "production",
+      "bg": "Погледни един обект пред теб и го опиши с 3 думи в ума си.",
+      "en": "Look at one object in front of you and describe it with 3 words in your head." [cite: 52]
+    },
+    {
+      "id": 495,
+      "type": "production",
+      "bg": "Представи си как издишваш целия стрес като сив облак.",
+      "en": "Imagine exhaling all stress as a gray cloud." [cite: 52]
+    },
+    {
+      "id": 496,
+      "type": "production",
+      "bg": "Направи 10 бързи „барабанчета“ с пръсти върху бедрата си.",
+      "en": "Do 10 fast finger 'drums' on your thighs." [cite: 53]
+    },
+    {
+      "id": 497,
+      "type": "production",
+      "bg": "Помисли за чаша горещ чай или студена напитка.",
+      "en": "Think of a cup of hot tea or a cold drink." [cite: 53]
+    },
+    {
+      "id": 498,
+      "type": "production",
+      "bg": "Провери баланса си, като прехвърлиш тежестта от единия крак на другия.",
+      "en": "Check your balance by shifting weight from one foot to the other." [cite: 53]
+    },
+    {
+      "id": 499,
+      "type": "production",
+      "bg": "Отдели 5 секунди за „ментална тишина“.",
+      "en": "Take 5 seconds of 'mental silence'." [cite: 53]
+    },
+    {
+      "id": 500,
+      "type": "production",
+      "bg": "Кимни леко на работното си място за добре свършената работа.",
+      "en": "Give a small nod to your workstation for a job well done." [cite: 53]
+    },
+    {
+      "id": 501,
+      "type": "production",
+      "bg": "Помисли за добър колега и му пожелай късмет наум.",
+      "en": "Think of a good colleague and wish them luck mentally." [cite: 53]
+    },
+    {
+      "id": 502,
+      "type": "production",
+      "bg": "Направи 3 кратки и силни издишвания.",
+      "en": "Take 3 short and strong exhales." [cite: 53]
+    },
+    {
+      "id": 503,
+      "type": "production",
+      "bg": "Провери дали защитните ти очила/шлем са чисти.",
+      "en": "Check if your safety glasses/shield are clean." [cite: 53]
+    },
+    {
+      "id": 504,
+      "type": "production",
+      "bg": "Погледни през прозореца към небето за 5 секунди.",
+      "en": "Look out the window at the sky for 5 seconds." [cite: 54]
+    },
+    {
+      "id": 505,
+      "type": "production",
+      "bg": "Направи 5 леки „въздушни прегръдки“ пред себе си.",
+      "en": "Do 5 light 'air hugs' in front of you." [cite: 54]
+    },
+    {
+      "id": 601,
+      "type": "remote",
+      "bg": "Попитай изкуствения си интелект (или телефона) къде са ти ключовете.",
+      "en": "Ask your AI (or phone) where your keys are."
+    },
+    {
+      "id": 602,
+      "type": "remote",
+      "bg": "Опиши стола си като доверен колега пред невидима аудитория.",
+      "en": "Describe your chair as a trusted colleague to an invisible audience."
+    },
+    {
+      "id": 603,
+      "type": "remote",
+      "bg": "Направи си селфи, на което се преструваш, че слушаш много внимателно в онлайн среща.",
+      "en": "Take a selfie pretending to listen very intently in an online meeting."
+    },
+    {
+      "id": 604,
+      "type": "remote",
+      "bg": "Кажи на лаптопа си: „Днес ще завладеем интернет заедно“.",
+      "en": "Tell your laptop: 'Today we will conquer the internet together'."
+    },
+    {
+      "id": 605,
+      "type": "remote",
+      "bg": "Отиди до прозореца и помахай на първия преминаващ човек или кола.",
+      "en": "Go to the window and wave at the first passing person or car."
+    },
+    {
+      "id": 606,
+      "type": "remote",
+      "bg": "Направи 10 коремни преси, докато чакаш файл да се изтегли.",
+      "en": "Do 10 crunches while waiting for a file to download."
+    },
+    {
+      "id": 607,
+      "type": "remote",
+      "bg": "Сложи си официална риза върху пижамата и се погледни в огледалото.",
+      "en": "Put on a formal shirt over your pajamas and look in the mirror."
+    },
+    {
+      "id": 608,
+      "type": "remote",
+      "bg": "Провери съдържанието на хладилника за трети път през последния час.",
+      "en": "Check the fridge contents for the third time in the last hour."
+    },
+    {
+      "id": 609,
+      "type": "remote",
+      "bg": "Напиши съобщение на колега: „Ти си легенда!“, без повод.",
+      "en": "Message a colleague: 'You're a legend!', for no reason."
+    },
+    {
+      "id": 610,
+      "type": "remote",
+      "bg": "Завърти се на работния си стол 5 пъти и се опитай веднага след това да напишеш „Успех“.",
+      "en": "Spin in your office chair 5 times and try to type 'Success' immediately after."
+    },
+    {
+      "id": 611,
+      "type": "remote",
+      "bg": "Провери Wi-Fi рутера и му пожелай „силна връзка“.",
+      "en": "Check the Wi-Fi router and wish it a 'strong connection'."
+    },
+    {
+      "id": 612,
+      "type": "remote",
+      "bg": "Направи 1-минутна почивка, в която просто гледаш тавана.",
+      "en": "Take a 1-minute break just staring at the ceiling."
+    },
+    {
+      "id": 613,
+      "type": "remote",
+      "bg": "Опитай се да балансираш химикалка на носа си, докато четеш мейл.",
+      "en": "Try to balance a pen on your nose while reading an email."
+    },
+    {
+      "id": 614,
+      "type": "remote",
+      "bg": "Направи си „работно кафене“ у дома, като си сложиш фонов шум от кафене на колоните.",
+      "en": "Create a 'home cafe' by playing background cafe noise on your speakers."
+    },
+    {
+      "id": 615,
+      "type": "remote",
+      "bg": "Потупай лаптопа си по капака и му кажи: „Добра работа дотук“.",
+      "en": "Pat your laptop lid and tell it: 'Good job so far'."
+    },
+    {
+      "id": 616,
+      "type": "remote",
+      "bg": "Направи си селфи, на което изглеждаш като „служител на месеца“ в домашни условия.",
+      "en": "Take a selfie looking like 'employee of the month' at home."
+    },
+    {
+      "id": 617,
+      "type": "remote",
+      "bg": "Обяви на домашния си любимец (или на едно растение), че срещата се отлага.",
+      "en": "Announce to your pet (or a plant) that the meeting is postponed."
+    },
+    {
+      "id": 618,
+      "type": "remote",
+      "bg": "Напиши на лист хартия „ГЕНИЙ ПРИ РАБОТА“ и го залепи на гърба на стола си.",
+      "en": "Write 'GENIUS AT WORK' on a piece of paper and tape it to the back of your chair."
+    },
+    {
+      "id": 619,
+      "type": "remote",
+      "bg": "Направи 5 скока „Звезда“ (Jumping Jacks), за да отпразнуваш изпратен мейл.",
+      "en": "Do 5 Jumping Jacks to celebrate a sent email."
+    },
+    {
+      "id": 620,
+      "type": "remote",
+      "bg": "Отиди до огледалото и си кажи: „Ти си най-добрият колега, който някога съм имал“.",
+      "en": "Go to the mirror and say: 'You're the best colleague I've ever had'."
+    },
+    {
+      "id": 526,
+      "type": "remote",
+      "bg": "Престори се, че връзката прекъсва, като замръзнеш в смешна поза за 10 секунди.",
+      "en": "Pretend the connection is lagging by freezing in a funny pose for 10 seconds."
+    },
+    {
+      "id": 621,
+      "type": "remote",
+      "bg": "Направи „почетна обиколка“ на бюрото си, след като завършиш трудна задача.",
+      "en": "Take a 'victory lap' around your desk after finishing a tough task."
+    },
+    {
+      "id": 622,
+      "type": "remote",
+      "bg": "Опитай се да намериш най-отдалечения предмет в стаята, без да ставаш от стола.",
+      "en": "Try to reach the furthest object in the room without leaving your chair."
+    },
+    {
+      "id": 623,
+      "type": "remote",
+      "bg": "Напиши кратко писмо до бъдещото си аз относно днешния работен обяд.",
+      "en": "Write a short note to your future self about today's working lunch."
+    },
+    {
+      "id": 624,
+      "type": "remote",
+      "bg": "Провери колко химикалки около теб всъщност работят.",
+      "en": "Check how many pens around you actually work."
+    },
+    {
+      "id": 625,
+      "type": "remote",
+      "bg": "Направи „въздушна китара“ соло за 15 секунди по време на почивката.",
+      "en": "Do a 15-second 'air guitar' solo during your break."
+    },
+    {
+      "id": 626,
+      "type": "remote",
+      "bg": "Сложи си слушалките и се престори на пилот, който излита в облака (Cloud).",
+      "en": "Put on your headphones and pretend to be a pilot taking off into the Cloud."
+    },
+    {
+      "id": 627,
+      "type": "remote",
+      "bg": "Опитай се да нарисуваш малко слънце на лепящо листче със затворени очи.",
+      "en": "Try to draw a tiny sun on a sticky note with your eyes closed."
+    },
+    {
+      "id": 628,
+      "type": "remote",
+      "bg": "Поздрави хладилника с „Добър ден, г-н Мениджър на хранителните запаси“.",
+      "en": "Greet the fridge with 'Good day, Mr. Food Supply Manager'."
+    },
+    {
+      "id": 629,
+      "type": "remote",
+      "bg": "Направи 3 бавни вдишвания, представяйки си, че си в офис на 50-ия етаж.",
+      "en": "Take 3 slow breaths, imagining you're in an office on the 50th floor."
+    },
+    {
+      "id": 630,
+      "type": "remote",
+      "bg": "Затвори всички ненужни табове в браузъра и си кажи „Свобода!“.",
+      "en": "Close all unnecessary browser tabs and say 'Freedom!'."
+    },
+    {
+      "id": 631,
+      "type": "remote",
+      "bg": "Направи смешна физиономия към уеб камерата (когато е изключена!).",
+      "en": "Make a funny face at the webcam (when it's turned off!)."
+    },
+    {
+      "id": 632,
+      "type": "remote",
+      "bg": "Опитай се да балансираш празна чаша на главата си за 5 секунди.",
+      "en": "Try to balance an empty cup on your head for 5 seconds."
+    },
+    {
+      "id": 633,
+      "type": "remote",
+      "bg": "Кажи на клавиатурата си: „Благодаря за подкрепата днес“.",
+      "en": "Tell your keyboard: 'Thanks for the support today'."
+    },
+    {
+      "id": 634,
+      "type": "remote",
+      "bg": "Подреди иконите на десктопа си по цвят или важност за 1 минута.",
+      "en": "Arrange your desktop icons by color or importance for 1 minute."
+    },
+    {
+      "id": 635,
+      "type": "remote",
+      "bg": "Обяви 2-минутна „пауза за дискотека“ и танцувай на любимата си песен.",
+      "en": "Announce a 2-minute 'disco break' and dance to your favorite song."
+    },
+    {
+      "id": 636,
+      "type": "remote",
+      "bg": "Направи „преглед на наличностите“ в шкафа със закуски и му дай оценка.",
+      "en": "Do a 'stock review' of your snack cupboard and give it a rating."
+    },
+    {
+      "id": 637,
+      "type": "remote",
+      "bg": "Погледни се в уеб камерата и си кажи: „Днес изглеждаш като лидер!“.",
+      "en": "Look into the webcam and tell yourself: 'You look like a leader today!'"
+    },
+    {
+      "id": 638,
+      "type": "remote",
+      "bg": "Напиши на лепящо листче „АЗ СЪМ МАШИНА“ и го залепи на монитора си.",
+      "en": "Write 'I AM A MACHINE' on a sticky note and stick it to your monitor."
+    },
+    {
+      "id": 639,
+      "type": "remote",
+      "bg": "Опитай се да стоиш на един крак, докато четеш следващия си мейл.",
+      "en": "Try to stand on one leg while reading your next email."
+    },
+    {
+      "id": 640,
+      "type": "remote",
+      "bg": "Направи „въздушно наздраве“ с чашата си за кафе към невидимите колеги.",
+      "en": "Give an 'air cheers' with your coffee mug to your invisible colleagues."
+    },
+    {
+      "id": 641,
+      "type": "remote",
+      "bg": "Провери дали стайното ти растение има нужда от „мотивационна реч“.",
+      "en": "Check if your houseplant needs a 'motivational speech'."
+    },
+    {
+      "id": 642,
+      "type": "remote",
+      "bg": "Престори се, че си в телевизионно шоу за готвене, докато си правиш сандвич.",
+      "en": "Pretend you're on a TV cooking show while making a sandwich."
+    },
+    {
+      "id": 643,
+      "type": "remote",
+      "bg": "Направи 10 бързи изправяния и сядания от стола (Chair Squats).",
+      "en": "Do 10 quick chair squats."
+    },
+    {
+      "id": 644,
+      "type": "remote",
+      "bg": "Кажи на мишката си: „Благодаря, че ме насочваш в правилната посока“.",
+      "en": "Tell your mouse: 'Thanks for pointing me in the right direction'."
+    },
+    {
+      "id": 645,
+      "type": "remote",
+      "bg": "Направи си „мини пикник“ на пода до бюрото за 5 минути.",
+      "en": "Have a 'mini picnic' on the floor next to your desk for 5 minutes."
+    },
+    {
+      "id": 646,
+      "type": "remote",
+      "bg": "Опитай се да наредиш химикалките си във формата на слънце.",
+      "en": "Try to arrange your pens in the shape of a sun."
+    },
+    {
+      "id": 647,
+      "type": "remote",
+      "bg": "Отиди до най-близкия прозорец и преброй колко птици виждаш.",
+      "en": "Go to the nearest window and count how many birds you see."
+    },
+    {
+      "id": 648,
+      "type": "remote",
+      "bg": "Направи „лице на мислител“ и го задръж за 20 секунди.",
+      "en": "Make a 'thinker's face' and hold it for 20 seconds."
+    },
+    {
+      "id": 649,
+      "type": "remote",
+      "bg": "Обяви край на „първо полувреме“ на работния ден с кратък сигнал с уста.",
+      "en": "Announce the end of the 'first half' of the workday with a short whistle."
+    },
+    {
+      "id": 650,
+      "type": "remote",
+      "bg": "Помисли за една хубава дума, която започва с буквата на твоя град.",
+      "en": "Think of a nice word that starts with the letter of your city."
+    },
+    {
+      "id": 651,
+      "type": "remote",
+      "bg": "Направи 3 бавни кръга с раменете, докато чакаш страницата да зареди.",
+      "en": "Do 3 slow shoulder circles while waiting for the page to load."
+    },
+    {
+      "id": 652,
+      "type": "remote",
+      "bg": "Напиши „БРАВО“ на себе си в празния текстов файл.",
+      "en": "Type 'BRAVO' to yourself in an empty text file."
+    },
+    {
+      "id": 559,
+      "type": "remote",
+      "bg": "Опитай се да напишеш името си във въздуха с носа си.",
+      "en": "Try to write your name in the air with your nose."
+    },
+    {
+      "id": 653,
+      "type": "remote",
+      "bg": "Затвори очи за 10 секунди и си представи, че си на плажа в обедната почивка.",
+      "en": "Close your eyes for 10 seconds and imagine you're on a beach during lunch."
+    },
+    {
+      "id": 654,
+      "type": "night",
+      "bg": "Погледни в тъмнината и кимни, сякаш разбираш всичко.",
+      "en": "Look into the darkness and nod as if you understand everything."
+    },
+    {
+      "id": 655,
+      "type": "night",
+      "bg": "Върви бавно 5 крачки като нощен супервайзор, проверяващ за духове.",
+      "en": "Walk slowly for 5 steps like a night supervisor checking for ghosts."
+    },
+    {
+      "id": 656,
+      "type": "night",
+      "bg": "Прошепни на луната (или на лампата): „Ти си моят единствен свидетел“.",
+      "en": "Whisper to the moon (or the lamp): 'You are my only witness'."
+    },
+    {
+      "id": 657,
+      "type": "night",
+      "bg": "Направи си „нощно парти“, като потанцуваш без звук за 20 секунди.",
+      "en": "Have a 'night party' by dancing silently for 20 seconds."
+    },
+    {
+      "id": 658,
+      "type": "night",
+      "bg": "Преброй колко светлинки виждаш в далечината.",
+      "en": "Count how many lights you see in the distance."
+    },
+    {
+      "id": 659,
+      "type": "night",
+      "bg": "Разтрий лицето си със студена вода, за да „рестартираш системата“.",
+      "en": "Splash your face with cold water to 'restart the system'."
+    },
+    {
+      "id": 660,
+      "type": "night",
+      "bg": "Кажи тихо: „Градът спи, но успехът не“.",
+      "en": "Quietly say: 'The city sleeps, but success doesn't'."
+    },
+    {
+      "id": 661,
+      "type": "night",
+      "bg": "Направи 10 бързи подскока, за да събудиш кръвообращението си.",
+      "en": "Do 10 quick jumps to wake up your circulation."
+    },
+    {
+      "id": 662,
+      "type": "night",
+      "bg": "Погледни своята сянка и ѝ направи жест за поздрав.",
+      "en": "Look at your shadow and give it a greeting gesture."
+    },
+    {
+      "id": 663,
+      "type": "night",
+      "bg": "Опитай се да се движиш напълно безшумно за 1 минута.",
+      "en": "Try to move completely silently for 1 minute."
+    },
+    {
+      "id": 664,
+      "type": "night",
+      "bg": "Погледни в тъмнината и кимни, сякаш разбираш всичко.",
+      "en": "Look into the darkness and nod as if you understand everything."
+    },
+    {
+      "id": 665,
+      "type": "night",
+      "bg": "Върви бавно 5 крачки като нощен супервайзор, проверяващ за духове.",
+      "en": "Walk slowly for 5 steps like a night supervisor checking for ghosts."
+    },
+    {
+      "id": 666,
+      "type": "night",
+      "bg": "Прошепни на луната (или на лампата): „Ти си моят единствен свидетел“.",
+      "en": "Whisper to the moon (or the lamp): 'You are my only witness'."
+    },
+    {
+      "id": 667,
+      "type": "night",
+      "bg": "Направи си „нощно парти“, като потанцуваш без звук за 20 секунди.",
+      "en": "Have a 'night party' by dancing silently for 20 seconds."
+    },
+    {
+      "id": 668,
+      "type": "night",
+      "bg": "Преброй колко светлинки виждаш в далечината.",
+      "en": "Count how many lights you see in the distance."
+    },
+    {
+      "id": 669,
+      "type": "night",
+      "bg": "Разтрий лицето си със студена вода, за да „рестартираш системата“.",
+      "en": "Splash your face with cold water to 'restart the system'."
+    },
+    {
+      "id": 670,
+      "type": "night",
+      "bg": "Кажи тихо: „Градът спи, но успехът не“.",
+      "en": "Quietly say: 'The city sleeps, but success doesn't'."
+    },
+    {
+      "id": 671,
+      "type": "night",
+      "bg": "Направи 10 бързи подскока, за да събудиш кръвообращението си.",
+      "en": "Do 10 quick jumps to wake up your circulation."
+    },
+    {
+      "id": 672,
+      "type": "night",
+      "bg": "Погледни своята сянка и ѝ направи жест за поздрав.",
+      "en": "Look at your shadow and give it a greeting gesture."
+    },
+    {
+      "id": 673,
+      "type": "night",
+      "bg": "Опитай се да се движиш напълно безшумно за 1 минута.",
+      "en": "Try to move completely silently for 1 minute."
+    }
+{
+  "missions": [
+    {
+      "id": 674,
+      "type": "night",
+      "bg": "Направи 5-секунден „тест на сенките“ – провери дали някоя не се движи сама.",
+      "en": "Do a 5-second 'shadow test' – check if any are moving on their own."
+    },
+    {
+      "id": 675,
+      "type": "night",
+      "bg": "Прошепни на кафемашината: „Ти си моят най-добър приятел в този час“.",
+      "en": "Whisper to the coffee machine: 'You are my best friend at this hour'."
+    },
+    {
+      "id": 676,
+      "type": "night",
+      "bg": "Направи 10 бързи клякания, за да разгониш съня от краката си.",
+      "en": "Do 10 quick squats to chase the sleep out of your legs."
+    },
+    {
+      "id": 677,
+      "type": "night",
+      "bg": "Погледни към най-тъмния ъгъл и кажи уверено: „Аз съм шефът тук“.",
+      "en": "Look into the darkest corner and say confidently: 'I'm the boss here'."
+    },
+    {
+      "id": 678,
+      "type": "night",
+      "bg": "Измий лицето си със студена вода и се престори на екшън герой, готвещ се за мисия.",
+      "en": "Splash your face with cold water and pretend to be an action hero preparing for a mission."
+    },
+    {
+      "id": 679,
+      "type": "night",
+      "bg": "Опитай се да назовеш 5 нощни животни наум.",
+      "en": "Try to name 5 nocturnal animals in your head."
+    },
+    {
+      "id": 680,
+      "type": "night",
+      "bg": "Направи „лунна походка“ (moonwalk) за 10 секунди в празния коридор.",
+      "en": "Do a moonwalk for 10 seconds in the empty hallway."
+    },
+    {
+      "id": 681,
+      "type": "night",
+      "bg": "Погледни към нощното небе (ако има прозорец) и намери най-ярката звезда.",
+      "en": "Look at the night sky (if there's a window) and find the brightest star."
+    },
+    {
+      "id": 682,
+      "type": "night",
+      "bg": "Затвори очи за 15 секунди и се опитай да чуеш 3 различни звука от сградата.",
+      "en": "Close your eyes for 15 seconds and try to hear 3 different sounds from the building."
+    },
+    {
+      "id": 683,
+      "type": "night",
+      "bg": "Напиши „НОЩНА СТРАЖА“ на малко листче и го сложи в джоба си.",
+      "en": "Write 'NIGHT'S WATCH' on a small piece of paper and put it in your pocket."
+    },
+    {
+      "id": 684,
+      "type": "night",
+      "bg": "Опитай се да вървиш на пръсти в продължение на 1 минута, без да издадеш звук.",
+      "en": "Try to walk on your tiptoes for 1 minute without making a sound."
+    },
+    {
+      "id": 685,
+      "type": "night",
+      "bg": "Направи 3 бавни вдишвания и издишвания, представяйки си, че вдишваш лунна светлина.",
+      "en": "Take 3 slow breaths, imagining you are inhaling moonlight."
+    },
+    {
+      "id": 686,
+      "type": "night",
+      "bg": "Поздрави следващия колега, когото видиш, с „Добро утро, бъдеще!“.",
+      "en": "Greet the next colleague you see with 'Good morning, future!'."
+    },
+    {
+      "id": 687,
+      "type": "night",
+      "bg": "Направи „въздушен бокс“ за 20 секунди, за да вдигнеш адреналина.",
+      "en": "Do some shadow boxing for 20 seconds to boost your adrenaline."
+    },
+    {
+      "id": 688,
+      "type": "night",
+      "bg": "Провери дали часовникът ти не е спрял (или телефонът) – времето в нощната смяна е различно.",
+      "en": "Check if your watch or phone hasn't stopped – time in the night shift feels different."
+    },
+    {
+      "id": 689,
+      "type": "night",
+      "bg": "Помисли за закуската, която ще си направиш, когато се прибереш.",
+      "en": "Think about the breakfast you'll make when you get home."
+    },
+    {
+      "id": 690,
+      "type": "night",
+      "bg": "Направи 5 бавни кръга с главата, за да отпуснеш врата си.",
+      "en": "Do 5 slow head circles to relax your neck."
+    },
+    {
+      "id": 691,
+      "type": "night",
+      "bg": "Кажи тихо: „Аз съм господарят на нощта и работата ми е перфектна“.",
+      "en": "Quietly say: 'I am the master of the night and my work is perfect'."
+    },
+    {
+      "id": 692,
+      "type": "night",
+      "bg": "Преброй колко лампи светят в момента в твоето зрително поле.",
+      "en": "Count how many lights are currently on in your field of vision."
+    },
+    {
+      "id": 693,
+      "type": "night",
+      "bg": "Направи жест на фокусник към някоя машина или компютър, че все още работи.",
+      "en": "Make a magician's gesture to a machine or computer because it's still working."
+    },
+    {
+      "id": 694,
+      "type": "night",
+      "bg": "Направи 5 бавни „котешки разтягания“ на стола или прав, за да събудиш гръбнака си.",
+      "en": "Do 5 slow 'cat stretches' in your chair or standing to wake up your spine."
+    },
+    {
+      "id": 695,
+      "type": "night",
+      "bg": "Погледни към най-близкия изход и си представи пътя до вкъщи като на филмова лента.",
+      "en": "Look at the nearest exit and imagine the way home like a film strip."
+    },
+    {
+      "id": 696,
+      "type": "night",
+      "bg": "Опитай се да балансираш празна пластмасова бутилка или чаша на обратната страна на дланта си за 10 секунди.",
+      "en": "Try to balance an empty plastic bottle or cup on the back of your hand for 10 seconds."
+    },
+    {
+      "id": 697,
+      "type": "night",
+      "bg": "Направи „въздушно пиано“ върху бюрото или машината, докато тананикаш любима мелодия наум.",
+      "en": "Play 'air piano' on the desk or machine while humming a favorite tune in your head."
+    },
+    {
+      "id": 698,
+      "type": "night",
+      "bg": "Разтрий дланите си една в друга, докато станат горещи, и ги сложи върху затворените си очи за 5 секунди.",
+      "en": "Rub your palms together until they get hot and place them over your closed eyes for 5 seconds."
+    },
+    {
+      "id": 699,
+      "type": "night",
+      "bg": "Преброй колко червени светлинки (индикатори) виждаш в помещението.",
+      "en": "Count how many red lights (indicators) you see in the room."
+    },
+    {
+      "id": 700,
+      "type": "night",
+      "bg": "Направи 3 бавни „силови пози“ (ръце на хълбоците), за да повишиш увереността си.",
+      "en": "Do 3 slow 'power poses' (hands on hips) to boost your confidence."
+    },
+    {
+      "id": 701,
+      "type": "night",
+      "bg": "Помисли за три неща, които ще направиш през почивния си ден.",
+      "en": "Think of three things you will do on your day off."
+    },
+    {
+      "id": 702,
+      "type": "night",
+      "bg": "Направи 10 бързи повдигания на пръсти, за да раздвижиш кръвта в прасците.",
+      "en": "Do 10 quick calf raises to get the blood flowing in your legs."
+    },
+    {
+      "id": 703,
+      "type": "night",
+      "bg": "Кажи тихо: „Тишината е моят съюзник, а работата ми е моето предимство“.",
+      "en": "Quietly say: 'Silence is my ally, and my work is my advantage'."
+    },
+    {
+      "id": 704,
+      "type": "night",
+      "bg": "Опитай се да разпознаеш 3 различни миризми в работната среда.",
+      "en": "Try to identify 3 different smells in the work environment."
+    },
+    {
+      "id": 705,
+      "type": "night",
+      "bg": "Направи „контролно докосване“ на 5 различни материала (метал, пластмаса, хартия и т.н.).",
+      "en": "Do a 'control touch' on 5 different materials (metal, plastic, paper, etc.)."
+    },
+    {
+      "id": 706,
+      "type": "night",
+      "bg": "Погледни баджа си и си напомни, че си важна част от този механизъм.",
+      "en": "Look at your badge and remind yourself that you are an important part of this mechanism."
+    },
+    {
+      "id": 707,
+      "type": "night",
+      "bg": "Направи 5-секундна „йога на пръстите“ – докосни всеки пръст с палеца си възможно най-бързо.",
+      "en": "Do 5 seconds of 'finger yoga' – touch each finger with your thumb as fast as possible."
+    },
+    {
+      "id": 708,
+      "type": "night",
+      "bg": "Представи си, че си нощен пазач в музей и всички предмети около теб са безценни експонати.",
+      "en": "Imagine you are a night watchman in a museum and all the objects around you are priceless exhibits."
+    },
+    {
+      "id": 709,
+      "type": "night",
+      "bg": "Напиши „Браво на мен!“ на въображаема черна дъска във въздуха с пръст.",
+      "en": "Write 'Good for me!' on an imaginary blackboard in the air with your finger."
+    },
+    {
+      "id": 710,
+      "type": "night",
+      "bg": "Опитай се да стоиш напълно неподвижно за 15 секунди, като слушаш само дишането си.",
+      "en": "Try to stand completely still for 15 seconds, listening only to your breathing."
+    },
+    {
+      "id": 711,
+      "type": "night",
+      "bg": "Поздрави невидимия „дух на нощната смяна“ и му обещай, че ще се справиш чудесно.",
+      "en": "Greet the invisible 'night shift ghost' and promise him you'll do great."
+    },
+    {
+      "id": 712,
+      "type": "night",
+      "bg": "Направи 3 бавни кръга с китките, за да освободиш напрежението от писане или работа с инструменти.",
+      "en": "Do 3 slow wrist circles to release tension from typing or using tools."
+    },
+    {
+      "id": 713,
+      "type": "night",
+      "bg": "Погледни към часовника и изчисли колко точно минути остават до края на смяната.",
+      "en": "Look at the clock and calculate exactly how many minutes are left until the end of the shift."
+    },
+    {
+      "id": 714,
+      "type": "night",
+      "bg": "Направи 5 бавни повдигания на раменете към ушите и ги пусни рязко, за да освободиш стреса.",
+      "en": "Do 5 slow shoulder shrugs towards your ears and drop them suddenly to release stress."
+    },
+    {
+      "id": 715,
+      "type": "night",
+      "bg": "Погледни към най-близкото прозорче и провери дали вече не се вижда първата светлина на зората.",
+      "en": "Look at the nearest small window and check if the first light of dawn is already visible."
+    },
+    {
+      "id": 716,
+      "type": "night",
+      "bg": "Опитай се да назовеш 3 неща, които са се случили днес, за които си благодарен.",
+      "en": "Try to name 3 things that happened today for which you are grateful."
+    },
+    {
+      "id": 717,
+      "type": "night",
+      "bg": "Направи 10-секундна „пауза за усмивка“ – просто се усмихни на невидимата камера.",
+      "en": "Take a 10-second 'smile break' – just smile at the invisible camera."
+    },
+    {
+      "id": 718,
+      "type": "night",
+      "bg": "Провери дали гърбът ти е изправен и направи една бавна „кралска походка“ до другата машина.",
+      "en": "Check if your back is straight and take one slow 'royal walk' to the other machine."
+    },
+    {
+      "id": 719,
+      "type": "night",
+      "bg": "Помисли за топлото легло, което те чака, и си кажи: „Още малко, шампионе!“.",
+      "en": "Think about the warm bed waiting for you and say: 'Just a bit more, champion!'"
+    },
+    {
+      "id": 720,
+      "type": "night",
+      "bg": "Направи 3 бавни кръга с глезените си, докато си седнал или стоиш на един крак.",
+      "en": "Do 3 slow ankle circles while sitting or standing on one leg."
+    },
+    {
+      "id": 721,
+      "type": "night",
+      "bg": "Опитай се да познаеш колко е часът, без да гледаш часовника, и после провери.",
+      "en": "Try to guess what time it is without looking at the clock, then check."
+    },
+    {
+      "id": 722,
+      "type": "night",
+      "bg": "Кажи тихо: „Мисията е към края си, успехът е сигурен“.",
+      "en": "Quietly say: 'The mission is near its end, success is certain'."
+    },
+    {
+      "id": 723,
+      "type": "night",
+      "bg": "Направи финално „въздушно наздраве“ с бутилката си вода към края на смяната.",
+      "en": "Give a final 'air cheers' with your water bottle to the end of the shift."
+    },
+    {
+      "id": 724,
+      "type": "night",
+      "bg": "Направи „проверка на ехото“ – кажи тихо нещо и слушай дали сградата ти отговаря.",
+      "en": "Do an 'echo check' – say something quietly and listen if the building answers back."
+    },
+    {
+      "id": 725,
+      "type": "night",
+      "bg": "Опитай се да намериш предмет, който изглежда съвсем различно на изкуствена светлина.",
+      "en": "Try to find an object that looks completely different under artificial light."
+    },
+    {
+      "id": 726,
+      "type": "night",
+      "bg": "Направи 5 бавни „въздушни плувания“ с ръце, за да раздвижиш раменния пояс.",
+      "en": "Do 5 slow 'air swims' with your arms to move your shoulder girdle."
+    },
+    {
+      "id": 727,
+      "type": "night",
+      "bg": "Погледни своята сянка и се опитай да направиш фигура на животно с ръце.",
+      "en": "Look at your shadow and try to make an animal figure with your hands."
+    },
+    {
+      "id": 728,
+      "type": "night",
+      "bg": "Провери термометъра (или усети температурата) и си представи, че си в арктическа станция.",
+      "en": "Check the thermometer (or feel the temp) and imagine you're in an Arctic station."
+    },
+    {
+      "id": 729,
+      "type": "night",
+      "bg": "Напиши „ТИ СИ ЖЕЛЕЗЕН“ на малко парче хартия и го скрий някъде за следващата смяна.",
+      "en": "Write 'YOU ARE IRON' on a small piece of paper and hide it for the next shift."
+    },
+    {
+      "id": 730,
+      "type": "night",
+      "bg": "Направи 3 бавни „роботизирани движения“ – все пак машините са твоите съмишленици сега.",
+      "en": "Do 3 slow 'robotic movements' – after all, the machines are your allies now."
+    },
+    {
+      "id": 731,
+      "type": "night",
+      "bg": "Помисли за първия звук, който ще чуеш, когато излезеш навън сутринта.",
+      "en": "Think of the first sound you'll hear when you step outside in the morning."
+    },
+    {
+      "id": 732,
+      "type": "night",
+      "bg": "Опитай се да не мигаш в продължение на 10 секунди, докато гледаш една точка.",
+      "en": "Try not to blink for 10 seconds while staring at one point."
+    },
+    {
+      "id": 733,
+      "type": "night",
+      "bg": "Направи 5 леки подскока на място, за да „изтръскаш“ умората от себе си.",
+      "en": "Do 5 light hops in place to 'shake off' the fatigue."
+    },
+    {
+      "id": 734,
+      "type": "night",
+      "bg": "Погледни към тавана и се опитай да преброиш 10 панела или плочки.",
+      "en": "Look at the ceiling and try to count 10 panels or tiles."
+    },
+    {
+      "id": 735,
+      "type": "night",
+      "bg": "Кажи на глас (но тихо): „Енергията се завръща“.",
+      "en": "Say out loud (but quietly): 'The energy is returning'."
+    },
+    {
+      "id": 736,
+      "type": "night",
+      "bg": "Провери дали връзките на обувките ти (или закопчалките) са перфектно затегнати.",
+      "en": "Check if your shoelaces (or fasteners) are perfectly tightened."
+    },
+    {
+      "id": 737,
+      "type": "night",
+      "bg": "Направи жест „Peace“ (мир) към всяка камера за наблюдение, която видиш.",
+      "en": "Give a 'Peace' sign to every security camera you see."
+    },
+    {
+      "id": 738,
+      "type": "night",
+      "bg": "Помисли за любимия си супергерой и си представи, че той пази входа вместо теб.",
+      "en": "Think of your favorite superhero and imagine them guarding the entrance for you."
+    },
+    {
+      "id": 676,
+      "type": "night",
+      "bg": "Направи 5 бавни „въздушни прегръдки“ към тишината около теб.",
+      "en": "Do 5 slow 'air hugs' to the silence around you."
+    },
+    {
+      "id": 677,
+      "type": "night",
+      "bg": "Погледни към най-отдалечената светлинка и си пожелай нещо наум.",
+      "en": "Look at the furthest light and make a mental wish."
+    },
+    {
+      "id": 678,
+      "type": "night",
+      "bg": "Направи 10 бързи „барабанчета“ с пръсти върху първата твърда повърхност.",
+      "en": "Do 10 quick finger 'drums' on the first solid surface."
+    },
+    {
+      "id": 679,
+      "type": "night",
+      "bg": "Затвори очи и се опитай да познаеш в коя посока е изток.",
+      "en": "Close your eyes and try to guess which way is east."
+    },
+    {
+      "id": 680,
+      "type": "night",
+      "bg": "Провери дали джобовете ти са празни или имат „нощни съкровища“ (монети, капачки).",
+      "en": "Check if your pockets are empty or have 'night treasures' (coins, caps)."
+    },
+    {
+      "id": 681,
+      "type": "night",
+      "bg": "Направи 3 бавни завъртания на китките, сякаш навиваш невидима макара.",
+      "en": "Do 3 slow wrist circles as if winding an invisible reel."
+    },
+    {
+      "id": 682,
+      "type": "night",
+      "bg": "Помисли за първата дума, която ще кажеш на човека, който те сменя.",
+      "en": "Think of the first word you'll say to the person replacing you."
+    },
+    {
+      "id": 683,
+      "type": "night",
+      "bg": "Опитай се да балансираш на пети за 5 секунди.",
+      "en": "Try to balance on your heels for 5 seconds."
+    },
+    {
+      "id": 684,
+      "type": "night",
+      "bg": "Кажи тихо: „Нощта е моя, успехът е мой“.",
+      "en": "Quietly say: 'The night is mine, success is mine'."
+    },
+    {
+      "id": 685,
+      "type": "night",
+      "bg": "Провери дали коланът или дрехите ти са правилно нагласени.",
+      "en": "Check if your belt or clothes are properly adjusted."
+    },
+    {
+      "id": 686,
+      "type": "night",
+      "bg": "Направи 5 „въздушни боксови“ удара, за да прогониш последната умора.",
+      "en": "Do 5 shadow boxing punches to drive away the last bit of fatigue."
+    },
+    {
+      "id": 687,
+      "type": "night",
+      "bg": "Погледни баджа си и му направи малко „военен поздрав“.",
+      "en": "Look at your badge and give it a small military salute."
+    },
+    {
+      "id": 688,
+      "type": "night",
+      "bg": "Преброй наум от 20 до 0 през две (20, 18, 16...).",
+      "en": "Count backwards from 20 to 0 by twos (20, 18, 16...)."
+    },
+    {
+      "id": 689,
+      "type": "night",
+      "bg": "Опитай се да усетиш тежестта на тялото си върху обувките за 10 секунди.",
+      "en": "Try to feel the weight of your body on your shoes for 10 seconds."
+    },
+    {
+      "id": 690,
+      "type": "night",
+      "bg": "Направи жест за победа към огледалото или отразяваща повърхност.",
+      "en": "Make a victory sign to a mirror or reflecting surface."
+    },
+    {
+      "id": 691,
+      "type": "night",
+      "bg": "Помисли за топлата напитка, която ще изпиеш след малко.",
+      "en": "Think of the warm drink you'll have in a bit."
+    },
+    {
+      "id": 692,
+      "type": "night",
+      "bg": "Провери дали батерията на телефона ти е в „безопасната зона“.",
+      "en": "Check if your phone battery is in the 'safe zone'."
+    },
+    {
+      "id": 693,
+      "type": "night",
+      "bg": "Направи 3 бавни кръга с раменете назад.",
+      "en": "Do 3 slow shoulder circles backward."
+    },
+    {
+      "id": 694,
+      "type": "night",
+      "bg": "Опитай се да намериш 3 предмета в стаята, които започват с буквата „С“.",
+      "en": "Try to find 3 objects in the room that start with the letter 'S'."
+    },
+    {
+      "id": 695,
+      "type": "night",
+      "bg": "Пожелай „Лека нощ“ на сградата, докато се подготвяш за финалните задачи.",
+      "en": "Wish the building 'Good night' as you prepare for the final tasks."
+    }
+  ]
+}{
+  "missions": [
+    {
+      "id": 696,
+      "type": "night",
+      "bg": "Направи „проверка на духа“ – докосни студена метална повърхност и се разсъни моментално.",
+      "en": "Do a 'spirit check' – touch a cold metal surface and wake up instantly."
+    },
+    {
+      "id": 697,
+      "type": "night",
+      "bg": "Опитай се да видиш отражението си в тъмен прозорец и си намигни.",
+      "en": "Try to see your reflection in a dark window and wink at yourself."
+    },
+    {
+      "id": 698,
+      "type": "night",
+      "bg": "Направи 3 бавни вдишвания, представяйки си, че вдишваш свежия утринен въздух.",
+      "en": "Take 3 slow breaths, imagining you are inhaling fresh morning air."
+    },
+    {
+      "id": 699,
+      "type": "night",
+      "bg": "Погледни ръцете си и им кажи: „Благодаря, че не ме предадохте тази нощ“.",
+      "en": "Look at your hands and tell them: 'Thank you for not failing me tonight'."
+    },
+    {
+      "id": 700,
+      "type": "night",
+      "bg": "Направи 5 леки завъртания на торса наляво и надясно, докато стоиш мирно.",
+      "en": "Do 5 light torso twists left and right while standing still."
+    },
+    {
+      "id": 701,
+      "type": "night",
+      "bg": "Провери дали наоколо няма „забравени вещи“ от предната смяна.",
+      "en": "Check around for any 'forgotten items' from the previous shift."
+    },
+    {
+      "id": 702,
+      "type": "night",
+      "bg": "Опитай се да назовеш 3 неща, които ще купиш от магазина на път за вкъщи.",
+      "en": "Try to name 3 things you will buy from the store on your way home."
+    },
+    {
+      "id": 703,
+      "type": "night",
+      "bg": "Направи „въздушно висока петица“ (High Five) към изгряващото слънце (дори да не го виждаш).",
+      "en": "Give an 'air high-five' to the rising sun (even if you can't see it)."
+    },
+    {
+      "id": 704,
+      "type": "night",
+      "bg": "Кажи тихо: „Аз съм победителят на тази нощ“.",
+      "en": "Quietly say: 'I am the winner of this night'."
+    },
+    {
+      "id": 705,
+      "type": "night",
+      "bg": "Провери дали всички ключове и инструменти са по местата си за следващия колега.",
+      "en": "Check if all keys and tools are in their places for the next colleague."
+    },
+    {
+      "id": 706,
+      "type": "night",
+      "bg": "Направи 10-секундна пауза, за да оцениш тишината преди началото на деня.",
+      "en": "Take a 10-second pause to appreciate the silence before the day begins."
+    },
+    {
+      "id": 707,
+      "type": "night",
+      "bg": "Помисли за мекото докосване на възглавницата си.",
+      "en": "Think about the soft touch of your pillow."
+    },
+    {
+      "id": 708,
+      "type": "night",
+      "bg": "Направи 3 бавни кръга с китките, сякаш дирижираш края на симфония.",
+      "en": "Do 3 slow wrist circles as if conducting the end of a symphony."
+    },
+    {
+      "id": 709,
+      "type": "night",
+      "bg": "Погледни към вратата и си кажи: „Мисията е изпълнена успешно“.",
+      "en": "Look at the door and tell yourself: 'Mission successfully completed'."
+    },
+    {
+      "id": 710,
+      "type": "night",
+      "bg": "Опитай се да усетиш мириса на сутрешно кафе в ума си.",
+      "en": "Try to smell morning coffee in your mind."
+    },
+    {
+      "id": 711,
+      "type": "night",
+      "bg": "Направи един финален „оглед на територията“ с поглед на орел.",
+      "en": "Take one final 'territory inspection' with an eagle eye."
+    },
+    {
+      "id": 712,
+      "type": "night",
+      "bg": "Сложи ръце на сърцето си за 5 секунди и усети неговия ритъм.",
+      "en": "Place your hands on your heart for 5 seconds and feel its rhythm."
+    },
+    {
+      "id": 713,
+      "type": "night",
+      "bg": "Пожелай „Успех“ на колегата, който ще те смени, дори само наум.",
+      "en": "Wish 'Good luck' to the colleague who will replace you, even if only mentally."
+    },
+    {
+      "id": 714,
+      "type": "night",
+      "bg": "Направи една дълбока и бавна крачка към изхода – символ на края на задачата.",
+      "en": "Take one deep and slow step toward the exit – a symbol of the task's end."
+    },
+    {
+      "id": 715,
+      "type": "night",
+      "bg": "Затвори очи за последен път в смяната и си кажи: „Беше добра нощ“.",
+      "en": "Close your eyes for the last time during the shift and say: 'It was a good night'."
+    },
+    {
+      "id": 901,
+      "type": "influencer",
+      "bg": "Обяви кампания за правото на чорапите да бъдат различни.",
+      "en": "Announce a campaign for the right of socks to be different."
+    },
+    {
+      "id": 902,
+      "type": "influencer",
+      "bg": "Запиши стори, в което обясняваш защо нулата е любимото ти число.",
+      "en": "Record a story explaining why zero is your favorite number."
+    },
+    {
+      "id": 903,
+      "type": "influencer",
+      "bg": "Снимай се как „плуваш“ на пода в хола.",
+      "en": "Film yourself 'swimming' on the floor in the living room."
+    },
+    {
+      "id": 904,
+      "type": "influencer",
+      "bg": "Обяви, че си открил как да превръщаш кафето в енергия (чрез пиене).",
+      "en": "Announce you found how to turn coffee into energy (by drinking it)."
+    },
+    {
+      "id": 905,
+      "type": "influencer",
+      "bg": "Направи урок: „Как да изглеждаш зает, докато не правиш нищо“.",
+      "en": "Make a tutorial: How to look busy doing nothing."
+    },
+    {
+      "id": 906,
+      "type": "influencer",
+      "bg": "Снимай се как „прегръщаш“ дърво и сложи таг #NatureVibes.",
+      "en": "Film yourself 'hugging' a tree and tag it #NatureVibes."
+    },
+    {
+      "id": 907,
+      "type": "influencer",
+      "bg": "Обяви, че си професионален „брояч на облаци“.",
+      "en": "Announce you're a professional 'cloud counter'."
+    },
+    {
+      "id": 908,
+      "type": "influencer",
+      "bg": "Запиши видео как „чистиш“ екраните на последователите си с кърпа.",
+      "en": "Record a video 'cleaning' your followers' screens with a cloth."
+    },
+    {
+      "id": 909,
+      "type": "influencer",
+      "bg": "Снимай се как се опитваш да кажеш нещо умно, но забравяш средата.",
+      "en": "Film yourself trying to say something smart but forgetting the middle."
+    },
+    {
+      "id": 910,
+      "type": "influencer",
+      "bg": "Обяви, че аурата ти днес е неоново лилава.",
+      "en": "Announce your aura today is neon purple."
+    },
+    {
+      "id": 911,
+      "type": "influencer",
+      "bg": "Направи ревю на слънчевата светлина в този момент.",
+      "en": "Review the sunlight at this moment."
+    },
+    {
+      "id": 912,
+      "type": "influencer",
+      "bg": "Снимай се как „командваш“ праха по пода.",
+      "en": "Film yourself 'bossing around' the dust on the floor."
+    },
+    {
+      "id": 913,
+      "type": "influencer",
+      "bg": "Обяви, че перфектният ъгъл за селфи е вътре в хладилника.",
+      "en": "Announce the perfect selfie angle is inside the fridge."
+    },
+    {
+      "id": 914,
+      "type": "influencer",
+      "bg": "Запиши стори: „Днес празнувам рождения ден на моето растение“.",
+      "en": "Record a story: 'Today I'm celebrating my plant's birthday'."
+    },
+    {
+      "id": 915,
+      "type": "influencer",
+      "bg": "Снимай се как „пишеш“ пост на невидима клавиатура.",
+      "en": "Film yourself 'typing' a post on an invisible keyboard."
+    },
+    {
+      "id": 916,
+      "type": "influencer",
+      "bg": "Обяви, че си фен на тишината и остани тих за 15 секунди.",
+      "en": "Announce you're a fan of silence and stay quiet for 15s."
+    },
+    {
+      "id": 917,
+      "type": "influencer",
+      "bg": "Запиши видео как „тестваш“ здравината на пода чрез скачане.",
+      "en": "Record a video 'testing' floor strength by jumping."
+    },
+    {
+      "id": 918,
+      "type": "influencer",
+      "bg": "Снимай се как „хипнотизираш“ банан да се обели сам.",
+      "en": "Film yourself 'hypnotizing' a banana to peel itself."
+    },
+    {
+      "id": 919,
+      "type": "influencer",
+      "bg": "Обяви, че инфлуенсърският ти път започва отначало... от леглото.",
+      "en": "Announce your influencer journey starts over... from bed."
+    },
+    {
+      "id": 920,
+      "type": "influencer",
+      "bg": "Направи урок: „Как да мигаш в синхрон с музиката“.",
+      "en": "Make a tutorial: How to blink in sync with music."
+    },
+    {
+      "id": 921,
+      "type": "influencer",
+      "bg": "Снимай се как „търсиш“ края на дъгата в чаша вода.",
+      "en": "Film yourself 'searching' for the end of the rainbow in a glass of water."
+    },
+    {
+      "id": 922,
+      "type": "influencer",
+      "bg": "Обяви, че си в режим „Самозареждане“ и няма да отговаряш на никого.",
+      "en": "Announce you're in 'Self-Recharge' mode and won't reply to anyone."
+    },
+    {
+      "id": 923,
+      "id_ref": 97,
+      "type": "influencer",
+      "bg": "Запиши 15-секундно стори, в което сериозно обясняваш защо камъните имат чувства.",
+      "en": "Record a 15s story seriously explaining why rocks have feelings."
+    },
+    {
+      "id": 924,
+      "id_ref": 97,
+      "type": "influencer",
+      "bg": "Направи си селфи с първия предмет, който видиш, и го отбележи като #MyNewBFF.",
+      "en": "Take a selfie with the first object you see and tag it #MyNewBFF."
+    },
+    {
+      "id": 925,
+      "id_ref": 97,
+      "type": "influencer",
+      "bg": "Направи GRWM (приготви се с мен) видео, но използвай само кухненски прибори вместо грим.",
+      "en": "Do a GRWM video but use only kitchen utensils instead of makeup."
+    },
+    {
+      "id": 926,
+      "type": "influencer",
+      "bg": "Стартирай живо излъчване и мълчи точно 1 минута, гледайки вторачено в камерата.",
+      "en": "Start a live stream and stay silent for 1 minute, staring at the camera."
+    },
+    {
+      "id": 927,
+      "type": "influencer",
+      "bg": "Направи ревю на обикновена чешмяна вода, сякаш е най-луксозното вино.",
+      "en": "Review ordinary tap water as if it's the most luxurious wine."
+    },
+    {
+      "id": 928,
+      "type": "influencer",
+      "bg": "Публикувай снимка на стена и напиши дълбок философски цитат за мазилката.",
+      "en": "Post a photo of a wall and write a deep philosophical quote about plaster."
+    },
+    {
+      "id": 929,
+      "type": "influencer",
+      "bg": "Запиши ASMR стори, в което шепнеш, докато ядеш сурова чушка.",
+      "en": "Record an ASMR story whispering while eating a raw bell pepper."
+    },
+    {
+      "id": 930,
+      "type": "influencer",
+      "bg": "Опитай се да убедиш последователите си, че въздухът днес има вкус на ванилия.",
+      "en": "Try to convince your followers that the air tastes like vanilla today."
+    },
+    {
+      "id": 931,
+      "type": "influencer",
+      "bg": "Направи „Unboxing“ (разопаковане) на коша си за боклук (избери 3 предмета и ги опиши).",
+      "en": "Do an 'Unboxing' of your trash bin (pick 3 items and describe them)."
+    },
+    {
+      "id": 932,
+      "type": "influencer",
+      "bg": "Снимай се как „влияеш“ на растение да расте по-бързо с жестове на ръцете.",
+      "en": "Film yourself 'influencing' a plant to grow faster with hand gestures."
+    },
+    {
+      "id": 933,
+      "type": "influencer",
+      "bg": "Запиши видео как се опитваш да си сложиш червило, докато се въртиш на стол.",
+      "en": "Record a video trying to put on lipstick while spinning in a chair."
+    },
+    {
+      "id": 934,
+      "type": "influencer",
+      "bg": "Обяви „нова колаборация“ с твоя хладилник.",
+      "en": "Announce a 'new collaboration' with your refrigerator."
+    },
+    {
+      "id": 935,
+      "type": "influencer",
+      "bg": "Направи Outfit of the Day (OOTD), използвайки само предмети, намерени в банята.",
+      "en": "Do an Outfit of the Day (OOTD) using only items found in the bathroom."
+    },
+    {
+      "id": 936,
+      "type": "influencer",
+      "bg": "Запиши стори с „загрозяващ“ филтър и кажи: „Днес се чувствам божествено!“.",
+      "en": "Record a story with a 'disfiguring' filter and say: 'I feel divine today!'."
+    },
+    {
+      "id": 937,
+      "type": "influencer",
+      "bg": "Попитай последователите си в анкета дали трябва да започнеш да спиш с чорапи на ръцете.",
+      "en": "Ask your followers in a poll if you should start sleeping with socks on your hands."
+    },
+    {
+      "id": 938,
+      "type": "influencer",
+      "bg": "Престори се, че плачеш, защото си загубил невидимата си връзка с Wi-Fi мрежата.",
+      "en": "Pretend to cry because you lost your invisible connection to the Wi-Fi."
+    },
+    {
+      "id": 939,
+      "type": "influencer",
+      "bg": "Фотографирай обяда си, подреден във формата на лицето на известен певец.",
+      "en": "Photograph your lunch arranged in the shape of a famous singer's face."
+    },
+    {
+      "id": 940,
+      "type": "influencer",
+      "bg": "Направи 10-секунден танц без музика на публично място (или пред огледало).",
+      "en": "Do a 10s dance without music in public (or in front of a mirror)."
+    },
+    {
+      "id": 941,
+      "type": "influencer",
+      "bg": "Обяви, че си на диета само с цветове – днес ядеш само жълти неща.",
+      "en": "Announce you're on a color-only diet – today you only eat yellow."
+    },
+    {
+      "id": 942,
+      "type": "influencer",
+      "bg": "Престори се на шокиран и попитай камерата: „Чакай, това реалност ли е или филтър?“.",
+      "en": "Pretend to be shocked and ask the camera: 'Wait, is this reality or a filter?'."
+    },
+    {
+      "id": 943,
+      "type": "influencer",
+      "bg": "Запиши как „тренираш“ с две бутилки кетчуп вместо гирички.",
+      "en": "Record yourself 'working out' with two ketchup bottles as weights."
+    },
+    {
+      "id": 944,
+      "type": "influencer",
+      "bg": "Направи ревю на старите си обувки, сякаш току-що са пристигнали от Париж.",
+      "en": "Review your old shoes as if they just arrived from Paris."
+    },
+    {
+      "id": 945,
+      "type": "influencer",
+      "bg": "Опитай се да си направиш селфи, докато балансираш телефона на челото си.",
+      "en": "Try to take a selfie while balancing your phone on your forehead."
+    },
+    {
+      "id": 946,
+      "type": "influencer",
+      "bg": "Запиши стори, в което се извиняваш на всички, защото днес не си пил кафе.",
+      "en": "Record a story apologizing to everyone because you didn't drink coffee today."
+    },
+    {
+      "id": 947,
+      "type": "influencer",
+      "bg": "Покажи своята „скрита суперсила“ – мърдане на уши или нос.",
+      "en": "Show your 'hidden superpower' – wiggling your ears or nose."
+    },
+    {
+      "id": 948,
+      "type": "influencer",
+      "bg": "Обяви, че започваш курс по „дишане под вода“ във ваната. [cite: 101]",
+      "en": "Announce you're starting a 'breathing underwater' course in the bathtub. [cite: 101]"
+    },
+    {
+      "id":949,
+      "type": "influencer",
+      "bg": "Запиши видео, в което обясняваш как да се грижим за дистанционното на телевизора. [cite: 101]",
+      "en": "Record a video explaining how to care for your TV remote. [cite: 101]"
+    },
+    {
+      "id": 950,
+      "type": "influencer",
+      "bg": "Снимай се как „четеш“ книга, но тя е обърната наобратно. [cite: 101]",
+      "en": "Film yourself 'reading' a book, but it's upside down. [cite: 101]"
+    },
+    {
+      "id": 951,
+      "type": "influencer",
+      "bg": "Престори се на стреснат от собственото си отражение в лъжица. [cite: 101]",
+      "en": "Pretend to be startled by your own reflection in a spoon. [cite: 101]"
+    },
+    {
+      "id": 952,
+      "type": "influencer",
+      "bg": "Обяви, че твоето духовно животно е празна пластмасова бутилка. [cite: 101]",
+      "en": "Announce that your spirit animal is an empty plastic bottle. [cite: 101]"
+    },
+    {
+      "id": 953,
+      "type": "influencer",
+      "bg": "Направи урок за това как да гледаш в една точка в продължение на 30 секунди. [cite: 101]",
+      "en": "Make a tutorial on how to stare at a single point for 30 seconds. [cite: 101]"
+    },
+    {
+      "id": 954,
+      "type": "influencer",
+      "bg": "Снимай краката си и кажи, че те са твоите „мениджъри“ днес. [cite: 101]",
+      "en": "Film your feet and say they are your 'managers' today. [cite: 101]"
+    },
+    {
+      "id": 955,
+      "type": "influencer",
+      "bg": "Престори се, че говориш с известна личност по телефона (използвай банан за слушалка). [cite: 102]",
+      "en": "Pretend to talk to a celebrity on the phone (use a banana as a handset). [cite: 102]"
+    },
+    {
+      "id": 956,
+      "type": "influencer",
+      "bg": "Публикувай стори: „Хора, задава се нещо голямо...“, след което се снимай как си режеш ноктите. [cite: 102]",
+      "en": "Post a story: 'Guys, something big is coming...' then film yourself clipping your nails. [cite: 102]"
+    },
+    {
+      "id": 957,
+      "type": "influencer",
+      "bg": "Опитай се да направиш „патешко лице“, докато се преструваш, че кихаш. [cite: 102]",
+      "en": "Try to make a 'duck face' while pretending to sneeze. [cite: 102]"
+    },
+    {
+      "id": 958,
+      "type": "influencer",
+      "bg": "Направи ревю на съня си от снощи по скалата от 1 до 10. [cite: 102]",
+      "en": "Review your sleep from last night on a scale of 1 to 10. [cite: 102]"
+    },
+    {
+      "id": 959,
+      "type": "influencer",
+      "bg": "Запиши се как пееш опера, докато си миеш зъбите. [cite: 102]",
+      "en": "Record yourself singing opera while brushing your teeth. [cite: 102]"
+    },
+    {
+      "id": 960,
+      "type": "influencer",
+      "bg": "Обяви, че си открил нова зодия – твоята собствена. [cite: 102]",
+      "en": "Announce you've discovered a new zodiac sign – Your Own. [cite: 102]"
+    },
+    {
+      "id": 961,
+      "type": "influencer",
+      "bg": "Направи видео „Какво има в чантата ми“, но чантата да е празна. [cite: 102]",
+      "en": "Do a 'What's in my bag' video, but the bag is empty. [cite: 102]"
+    },
+    {
+      "id": 962,
+      "type": "influencer",
+      "bg": "Снимай сенки на пода и ги наречи „арт инсталация“. [cite: 103]",
+      "en": "Film shadows on the floor and call it an 'art installation'. [cite: 103]"
+    },
+    {
+      "id": 963,
+      "type": "influencer",
+      "bg": "Престори се, че си забравил как се използва вилица. [cite: 103]",
+      "en": "Pretend you've forgotten how to use a fork. [cite: 103]"
+    },
+    {
+      "id": 964,
+      "type": "influencer",
+      "bg": "Обяви, че от днес се идентифицираш като „облак“. [cite: 103]",
+      "en": "Announce that from today, you identify as a 'cloud'. [cite: 103]"
+    },
+    {
+      "id": 965,
+      "type": "influencer",
+      "bg": "Запиши стори, в което благодариш на електричеството, че съществува. [cite: 103]",
+      "en": "Record a story thanking electricity for existing. [cite: 103]"
+    },
+    {
+      "id": 966,
+      "type": "influencer",
+      "bg": "Снимай се как „хипнотизираш“ чаша чай да се разбърка сама. [cite: 103]",
+      "en": "Film yourself 'hypnotizing' a cup of tea to stir itself. [cite: 103]"
+    },
+    {
+      "id": 967,
+      "type": "influencer",
+      "bg": "Направи урок: „Как да се усмихваме, без да показваме зъби или устни“. [cite: 103]",
+      "en": "Make a tutorial: How to smile without showing teeth or lips. [cite: 103]"
+    },
+    {
+      "id": 968,
+      "type": "influencer",
+      "bg": "Обяви кампания за спасяване на прашните ъгли в стаята. [cite: 103]",
+      "en": "Announce a campaign to save dusty corners in the room. [cite: 103]"
+    },
+    {
+      "id": 969,
+      "type": "influencer",
+      "bg": "Престори се на репортер, предаващ на живо от собствената си кухня. [cite: 103]",
+      "en": "Pretend to be a reporter live from your own kitchen. [cite: 103]"
+    },
+    {
+      "id": 9011,
+      "type": "influencer",
+      "bg": "Снимай се как се опитваш да се събереш в кутия, която е твърде малка. [cite: 104]",
+      "en": "Film yourself trying to fit into a box that's way too small. [cite: 104]"
+    },
+    {
+      "id": 9012,
+      "type": "influencer",
+      "bg": "Обяви, че си търсиш асистент, който да държи огледалото ти. [cite: 104]",
+      "en": "Announce you're looking for an assistant to hold your mirror. [cite: 104]"
+    },
+    {
+      "id": 9013,
+      "type": "influencer",
+      "bg": "Запиши видео, в което „комуникираш“ с микровълновата печка чрез бибиткания. [cite: 104]",
+      "en": "Record a video 'communicating' with the microwave via beeps. [cite: 104]"
+    },
+    {
+      "id": 9014,
+      "type": "influencer",
+      "bg": "Обяви, че започваш „дигитален детокс“, но остани онлайн, за да видиш кой ще реагира.",
+      "en": "Announce you're starting a 'digital detox' but stay online to see who reacts."
+    },
+    {
+      "id": 9015,
+      "type": "influencer",
+      "bg": "Запиши видео, в което „обучаваш“ дистанционното как да сменя каналите по-бързо.",
+      "en": "Record a video 'training' the remote control how to change channels faster."
+    },
+    {
+      "id": 9016,
+      "type": "influencer",
+      "bg": "Снимай се как „прегръщаш“ Wi-Fi рутера и му благодариш за вярната служба.",
+      "en": "Film yourself 'hugging' the Wi-Fi router and thanking it for its faithful service."
+    },
+    {
+      "id": 9017,
+      "type": "influencer",
+      "bg": "Направи урок: „Как да пием кафе със затворени очи, без да се разлеем“.",
+      "en": "Make a tutorial: How to drink coffee with your eyes closed without spilling."
+    },
+    {
+      "id": 9018,
+      "type": "influencer",
+      "bg": "Обяви, че си открил нов вид енергия, която идва от гледане на снимки на котки.",
+      "en": "Announce you've discovered a new kind of energy that comes from looking at cat photos."
+    },
+    {
+      "id": 9019,
+      "type": "influencer",
+      "bg": "Запиши стори, в което „спориш“ с лампата за това кой свети по-ярко днес.",
+      "en": "Record a story 'arguing' with the lamp about who shines brighter today."
+    },
+    {
+      "id": 9020,
+      "type": "influencer",
+      "bg": "Снимай се как правиш „йога“ за пръсти върху клавиатурата.",
+      "en": "Film yourself doing 'finger yoga' on the keyboard."
+    },
+    {
+      "id": 9021,
+      "type": "influencer",
+      "bg": "Престори се, че си инфлуенсър на тема „сън“ и покажи най-добрата поза за дрямка.",
+      "en": "Pretend to be a 'sleep' influencer and show the best pose for a nap."
+    },
+    {
+      "id": 9022,
+      "type": "influencer",
+      "bg": "Обяви, че днес си в „режим на пестене на батерия“ и ще говориш само с жестове.",
+      "en": "Announce you're in 'battery saver mode' today and will only speak with gestures."
+    },
+    {
+      "id": 9023,
+      "type": "influencer",
+      "bg": "Запиши се как „разопаковаш“ (unboxing) нова ролка тоалетна хартия с голям ентусиазъм.",
+      "en": "Record yourself 'unboxing' a new roll of toilet paper with great enthusiasm."
+    },
+    {
+      "id": 9024,
+      "type": "influencer",
+      "bg": "Снимай се как се опитваш да уловиш светлинен лъч в празна кутия.",
+      "en": "Film yourself trying to catch a beam of light in an empty box."
+    },
+    {
+      "id": 9025,
+      "type": "influencer",
+      "bg": "Направи ревю на въздуха в стаята си – свежест, аромат и „vibe“.",
+      "en": "Review the air in your room – freshness, scent, and 'vibe'."
+    },
+    {
+      "id": 9026,
+      "type": "influencer",
+      "bg": "Обяви, че си станал посланик на марката „Моето собствено легло“.",
+      "en": "Announce you've become a brand ambassador for 'My Own Bed'."
+    },
+    {
+      "id": 9027,
+      "type": "influencer",
+      "bg": "Запиши видео, в което обясняваш на последователите си как да различават лява от дясна чехла.",
+      "en": "Record a video explaining to your followers how to distinguish a left slipper from a right one."
+    },
+    {
+      "id": 9028,
+      "type": "influencer",
+      "bg": "Снимай се как „дирижираш“ шума от пералнята или микровълновата.",
+      "en": "Film yourself 'conducting' the noise from the washing machine or microwave."
+    },
+    {
+      "id": 9029,
+      "type": "influencer",
+      "bg": "Престори се на експерт по „гледане на стена“ и дай съвети за начинаещи.",
+      "en": "Pretend to be a 'wall-staring' expert and give tips for beginners."
+    },
+    {
+      "id": 9030,
+      "type": "influencer",
+      "bg": "Обяви кампания „Прегърни възглавницата си“ и се снимай как го правиш.",
+      "en": "Announce a 'Hug Your Pillow' campaign and film yourself doing it."
+    },
+    {
+      "id": 9031,
+      "type": "influencer",
+      "bg": "Запиши стори, в което сериозно питаш: „Ако хладилникът е студен, защо светлината му е топла?“.",
+      "en": "Record a story seriously asking: 'If the fridge is cold, why is its light warm?'."
+    },
+    {
+      "id": 9032,
+      "type": "influencer",
+      "bg": "Снимай се как „тренираш“ издръжливост, като държиш дистанционното с един пръст.",
+      "en": "Film yourself 'training' endurance by holding the remote with one finger."
+    },
+    {
+      "id": 9033,
+      "type": "influencer",
+      "bg": "Направи урок: „Как да изглеждаме изненадани, когато никой не ни снима“.",
+      "en": "Make a tutorial: How to look surprised when no one is filming us."
+    },
+    {
+      "id": 9034,
+      "type": "influencer",
+      "bg": "Обяви, че днес си в „офлайн режим“, докато публикуваш 10-тото си стори.",
+      "en": "Announce you're in 'offline mode' while posting your 10th story."
+    },
+    {
+      "id": 9035,
+      "type": "influencer",
+      "bg": "Запиши видео как „интервюираш“ чашата си за кафе за плановете ѝ за деня.",
+      "en": "Record a video 'interviewing' your coffee cup about its plans for the day."
+    },
+    {
+      "id": 9036,
+      "type": "influencer",
+      "bg": "Снимай се как правиш „магически жест“ към лаптопа, за да зареди по-бързо.",
+      "en": "Film yourself making a 'magic gesture' at the laptop to make it load faster."
+    },
+    {
+      "id": 9037,
+      "type": "influencer",
+      "bg": "Престори се, че си „гуру на тишината“ и не казвай нищо в стори за 15 секунди.",
+      "en": "Pretend to be a 'silence guru' and say nothing in a story for 15 seconds."
+    },
+    {
+      "id": 9038,
+      "type": "influencer",
+      "bg": "Обяви, че си открил портал към друго измерение... зад дивана.",
+      "en": "Announce you've discovered a portal to another dimension... behind the sofa."
     }
   ]
 }
